@@ -96,3 +96,11 @@ Below are some notable keybinds (_all command binds are in SkyBlocker).
 * **Numpad 0**: Warp Menu `/warp`
 * **Numpad Period**: Warp to Hub `/hub`
 * **_Disabled Binds_**: Pick Block, Load/Save Hotbar, Social Interactions Screen, Advancements, Toggle Gamma, Toggle Night Vision, All Rhizome Binds, Bazaar Refresh, Reload Shaders, Open Friends GUI, Zoom
+
+- - -
+
+## More Info
+
+[Credits](credits.md)
+
+[License](LICENSE.md)
