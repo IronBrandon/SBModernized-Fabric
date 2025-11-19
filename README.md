@@ -6,7 +6,6 @@
 
 * Skyblock
   * Firmament 3.11.0
-  * Rhizome 1.0.8
   * Skyblocker 5.9.0
   * SkyHanni 5.1.0
   * SkyCubed 1.7.0
@@ -27,7 +26,6 @@
 * AmbientSounds 6.2.2
 * Better Clouds 1.10.7
 * Better Third Person 1.9.0
-* Blooming Biosphere 1.1.11
 * Chat Heads 0.14.2
 * Continuity 3.0.1-beta.1
 * Cubes Without Borders 3.0.0
@@ -87,7 +85,7 @@
 * Fusion Connected Blocks v1.0.2-mc1.20-1.21.9
 * Simple Grass Flowers v1.9.6
 * Particles Remasterd! v2.0
-* Cubic Leaves v2.1-perf
+* Cubic Leaves v2.2-compat
 * Whimscape Leaves v1.20-1.21.10_r1
 * 3D Crops Revamped v3
 * Furfsky Reborn v1.9.1+mc1.21
