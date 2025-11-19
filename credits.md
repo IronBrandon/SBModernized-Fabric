@@ -7,7 +7,6 @@ Major thanks to **all** the mod, resource-pack, and shader-pack programmers, art
 #### Skyblock Enhancements
 
 - **Firmament** by Linnea Gräf
-- **Rhizome** by NymNux
 - **Skyblocker**
   - LIfeIsAParadox (_wohlhabend_)
   - kevinthegreat1
@@ -28,7 +27,6 @@ Major thanks to **all** the mod, resource-pack, and shader-pack programmers, art
 - **Better Clouds** by Qendolin
 - **Better Third Person** by Socolio
 - **BetterF3** by cominixo & TreyRuffy
-- **Blooming Biosphere** by hhumanoid & limesplatus
 - **Chat Heads** by dzwdz & Fourmisain
 - **Config Manager** by TheBossMagnus
 - **Continuity** by PepperCode1
