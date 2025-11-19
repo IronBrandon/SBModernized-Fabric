@@ -1,0 +1,360 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    // Valid Values: HEALTH, DEFENSE, MANA, NO_MANA, OVERFLOW_MANA, DRILL_FUEL, ABILITY, LOCATION, SKILL_XP, SKILL_XP_LITERAL, SKYBLOCK_XP, RIFT_TIME, ARMADILLO, CHARGES, ARMOR_STACK, CELLS_ALIGNMENT, SECRETS, PRESSURE
+    "hiddenActionBarWidgets": [
+        "SKYBLOCK_XP",
+        "MANA",
+        "DEFENSE",
+        "LOCATION",
+        "OVERFLOW_MANA",
+        "HEALTH"
+    ],
+    // Valid Values: HOTBAR, JUMP, EXPERIENCE, HEALTH, ARMOR, FOOD, AIR, SCOREBOARD, EFFECTS
+    "hiddenHudElements": [
+        "SCOREBOARD"
+    ],
+    "overlays": {
+        "info": {
+            "enabled": true,
+            // Valid Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+            "enabledLocations": [
+                "TOP_LEFT",
+                "TOP_RIGHT",
+                "BOTTOM_LEFT",
+                "BOTTOM_RIGHT"
+            ]
+        },
+        "rpg": {
+            "enabled": false,
+            "skyblockLevel": true,
+            // Valid Values: DISABLED, ARMORED, UNARMORED
+            "playerDisplay": "DISABLED"
+        },
+        "text": {
+            // Valid Values: DISABLED, NORMAL, EFFECTIVE
+            "healthDisplay": "DISABLED",
+            "manaEnabled": false,
+            "defenseEnabled": false,
+            "speedEnabled": false
+        },
+        "tablist": {
+            "enabled": false,
+            // Valid Values: NORMAL, SKYBLOCK_LEVEL, ALPHABETICAL, FRIENDS
+            "sorting": "NORMAL",
+            // [Color Format: RGBA]
+            "backgroundColor": -1073741824
+        },
+        "sack": {
+            "enabled": false,
+            "background": false,
+            "sackItems": []
+        },
+        "trophyFish": {
+            "enabled": false,
+            "background": false,
+            "showNumbers": true,
+            "showTotal": true,
+            "hideUnlocked": false
+        },
+        "map": {
+            "enabled": true,
+            "rotateAroundPlayer": false,
+            // Valid Values: CIRCLE, SQUARE
+            "mapShape": "SQUARE"
+        },
+        "dungeonmap": {
+            "enabled": false,
+            // [Color Format: RGB]
+            "normal_room": -6853299,
+            // [Color Format: RGB]
+            "spawn_room": -10059981,
+            // [Color Format: RGB]
+            "puzzle_room": -8437838,
+            // [Color Format: RGB]
+            "fairy_room": -884827,
+            // [Color Format: RGB]
+            "blood_room": -6737101,
+            // [Color Format: RGB]
+            "trap_room": -2588877,
+            // [Color Format: RGB]
+            "miniboss_room": -1710797,
+            // [Color Format: RGB]
+            "unknown_room": -11776948,
+            // [Color Format: RGB]
+            "normal_door": -6853299,
+            // [Color Format: RGB]
+            "wither_door": -15921907,
+            // [Color Format: RGB]
+            "blood_door": -6737101,
+            // [Color Format: RGB]
+            "puzzle_door": -8437838,
+            // [Color Format: RGB]
+            "trap_door": -2588877,
+            // [Color Format: RGB]
+            "miniboss_door": -1710797,
+            // [Color Format: RGB]
+            "fairy_door": -884827,
+            // [Color Format: RGB]
+            "unknown_door": -11776948
+        },
+        "pickupLog": {
+            "enabled": false,
+            "compact": true,
+            // Range: 1 - 60
+            "time": 5,
+            "sackItems": false,
+            // Valid Values: ITEM_STACK, DIFFERENCE, NAME
+            "appearance": [
+                "ITEM_STACK",
+                "DIFFERENCE",
+                "NAME"
+            ]
+        },
+        "commissions": {
+            "enabled": true,
+            "format": true,
+            "background": false
+        },
+        "npc": {
+            "enabled": false,
+            // Type: Integer
+            "messageWordsPerMinute": 180,
+            // Type: Float
+            "minimumDurationPerMessage": 0.75,
+            // Type: Float
+            "durationForActionMessage": 10.0,
+            "hideChatMessage": true
+        },
+        "bossbar": {
+            "removeWhenFull": false,
+            "removeBarWhenObjective": false
+        },
+        "itemtext": {
+            "moveable": false,
+            "hidden": false,
+            // Valid Values: START, CENTER, END
+            "alignment": "CENTER",
+            // [Color Format: RGBA]
+            "color": 0,
+            // Range: 0 - 100
+            "radius": 0
+        },
+        // Range: 0 - 99
+        "coldOverlay": 80,
+        "movableHotbar": false,
+        "windOverlay": false,
+        "positions": {
+            "rpg": {
+                // Type: Integer
+                "x": 29,
+                // Type: Integer
+                "y": 27,
+                // Type: Float
+                "scale": 1.0
+            },
+            "health": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": 21,
+                // Type: Float
+                "scale": 1.2
+            },
+            "mana": {
+                // Type: Integer
+                "x": 79,
+                // Type: Integer
+                "y": 66,
+                // Type: Float
+                "scale": 1.0
+            },
+            "defense": {
+                // Type: Integer
+                "x": 56,
+                // Type: Integer
+                "y": 43,
+                // Type: Float
+                "scale": 1.0
+            },
+            "speed": {
+                // Type: Integer
+                "x": 92,
+                // Type: Integer
+                "y": 43,
+                // Type: Float
+                "scale": 1.0
+            },
+            "commissions": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": -35,
+                // Type: Float
+                "scale": 1.0
+            },
+            "sack": {
+                // Type: Integer
+                "x": -300,
+                // Type: Integer
+                "y": 10,
+                // Type: Float
+                "scale": 1.0
+            },
+            "trophyFish": {
+                // Type: Integer
+                "x": -600,
+                // Type: Integer
+                "y": 10,
+                // Type: Float
+                "scale": 1.0
+            },
+            "pickupLog": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": 150,
+                // Type: Float
+                "scale": 1.0
+            },
+            "map": {
+                // Type: Integer
+                "x": 2,
+                // Type: Integer
+                "y": 2,
+                // Type: Float
+                "scale": 1.0
+            },
+            "hotbar": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": -22,
+                // Type: Float
+                "scale": 1.0
+            },
+            "itemtext": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": -35,
+                // Type: Float
+                "scale": 1.0
+            },
+            "info": {
+                // Type: Integer
+                "x": 0,
+                // Type: Integer
+                "y": 1,
+                // Type: Float
+                "scale": 1.0
+            }
+        }
+    },
+    "screens": {
+        "equipment": true,
+        "wardrobe": {
+            "enabled": true,
+            "textures": true,
+            // Valid Values: NONE, MINIMAL, WHOLE
+            "tooltipType": "MINIMAL"
+        }
+    },
+    "items": {
+        "itembars": true,
+        "cooldowns": true
+    },
+    "chat": {
+        "modifyHypixelCommands": true,
+        "chatColors": true,
+        "compactChat": true,
+        "messagesToClean": [
+            "^Profile ID:",
+            "^You are playing on profile:",
+            "^\\[WATCHDOG ANNOUNCEMENT]",
+            "^Watchdog has banned",
+            "^Staff have banned an additional",
+            "^Blacklisted modifications are a bannable offense!",
+            "^Couldn't warp you! Try again later.",
+            "^ *A FIRE SALE.*to grab yours!$"
+        ]
+    },
+    "notifications": {
+        "friendJoinLeave": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "guildJoinLeave": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "hoppityYouFound": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "hoppityEggAppeared": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "skymall": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 10000
+        },
+        "monolith": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "riftOrb": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "blocksInTheWay": {
+            "hideChatMessage": true,
+            "showAsToast": false,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "warping": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 10000
+        },
+        "combo": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 1500
+        },
+        "fishing": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "gifts": {
+            "hideChatMessage": true,
+            "showAsToast": true,
+            // Range: 0 - 30000
+            "toastDuration": 5000
+        },
+        "enableNotificationsWidget": true
+    },
+    "render": {
+        "showOwnTag": false
+    }
+}
