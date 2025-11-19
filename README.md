@@ -1,6 +1,11 @@
 # SBModernized
 
-## Mods
+A modpack designed specifically for Hypixel SkyBlock on modern versions.\
+Goodbye, 1.8.9, you will be missed...
+
+The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. At the moment, SBModernized is just a set of several great mods with preset default configs. However, to get this modpack into a _finished_ state I will be adding custom features to make customization quick and easy, but that's coming in the future.
+
+<details><summary>Content List</summary>
 
 ### Skyblock & QOL
 
@@ -98,3 +103,5 @@
 ## Shader Packs
 
 * Photon Shaders v1.2a
+
+</details>
