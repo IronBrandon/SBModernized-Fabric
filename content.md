@@ -85,7 +85,7 @@
 * Fusion Connected Blocks v1.0.2-mc1.20-1.21.9
 * Simple Grass Flowers v1.9.6
 * Particles Remasterd! v2.0
-* Cubic Leaves v2.1-perf
+* Cubic Leaves v2.2-compat
 * Whimscape Leaves v1.20-1.21.10_r1
 * 3D Crops Revamped v3
 * Furfsky Reborn v1.9.1+mc1.21
