@@ -53,23 +53,26 @@
 * Krypton 0.2.9
 * BadOptimizations 2.3.1
 
-### Settings Management
+### Modpack-Specific
 
 * Config Manager 1.1.0
 * Default Options 21.8.5
+* FancyMenu 3.7.1
 
 ### Libraries/APIs
 
-* Balm 21.8.10
-* Fabric API 0.136.1
-* Entity Model Features 3.0.1
-* Entity Texture Features 7.0.2
 * Architectury API 17.0.8
+* Balm 21.8.10
 * Cloth Config API 19.0.147
 * CreativeCore 2.14.7
+* Entity Model Features 3.0.1
+* Entity Texture Features 7.0.2
+* Fabric API 0.136.1
 * Fabric Language Kotlin 1.13.7
 * Fusion (Connected Textures) 1.2.11
+* Konkrete 1.9.12
 * LibJF 3.19.2
+* Melody 1.0.12
 * Mod Menu 15.0.0
 * Text Placeholder API 2.7.2
 * YetAnotherConfigLib 3.7.1
@@ -77,24 +80,24 @@
 
 ## Resource-Packs
 
-* Skyblock Dark UI v1.6.1
-* (Bee's) Serified Font v1.2
-* Fast Better Grass v1.21.9
-* Fast Better Grass For Simple Grass Flowers v1.0
-* Connected Paths v1.4
-* Fusion Connected Blocks v1.0.2-mc1.20-1.21.9
-* Simple Grass Flowers v1.9.6
-* Particles Remasterd! v2.0
-* Cubic Leaves v2.2-compat
-* Whimscape Leaves v1.20-1.21.10_r1
-* 3D Crops Revamped v3
-* Furfsky Reborn v1.9.1+mc1.21
-* Detailed Animations v1.15
-* Fresh Animations v1.10.1
-* No Enchant Glint v1.21.8
+* (Bee's) Serified Font 1.2
+* 3D Crops Revamped 3.0
+* Connected Paths 1.4
+* Crop & Foliage Variations 2.0
+* Detailed Animations 1.15
+* Fast Better Grass 1.21.9
+* Fast Better Grass For Simple Grass Flowers 1.0
+* Fresh Animations 1.10.1
+* Furfsky Reborn 1.9.1+mc1.21
+* Fusion Connected Blocks 1.0.2-mc1.20-1.21.9
+* Leaves Plus 1.0
+* No Enchant Glint 1.21.8
+* Particles Remasterd! 2.0
+* Simple Grass Flowers 1.9.6
+* Skyblock Dark UI 1.6.1
 
 > additional resource-packs are added by mods
 
 ## Shader Packs
 
-* Photon Shaders v1.2a
+* Photon Shaders 1.2a
