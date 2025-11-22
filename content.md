@@ -58,6 +58,7 @@
 - Config Manager 1.1.0
 - Default Options 21.8.5
 - FancyMenu 3.7.1
+- Resource Pack Overrides 21.8.0
 
 ### Libraries/APIs
 

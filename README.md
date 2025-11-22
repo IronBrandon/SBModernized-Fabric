@@ -46,7 +46,7 @@ Now you should be ready to just play! If you are playing in a resolution other t
 It's recommended that you keep all the packs as-is, but here are the purposes of some of the packs.
 
 1. **FurfSky Reborn** is _highly_ recommended for Skyblock and should be at the top. FurfSky is one of the best SkyBlock item resource packs with textures for almost every custom item in SkyBlock.
-2. **Cubic** & **Whimscape Leaves** are for more pretty leaves and bushes. These seem to be well optimized but some may need to disable them, or they may not be your cup of tea.
+2. **Leaves Plus** is for more pretty leaves. This is well optimized but you may disable if it isn't your cup of tea.
 3. **Crops 3D** is for 3D and more pretty crops. May have a minor performance hit, especially on the garden, but appears to be optimized for most systems.
 4. **FreshAnimations** is for more lively mob animations. Pretty well optimized and should work fine in most appears, this is purely preference.
 5. **Detailed Animations** has beautiful player animations, which also apply to NPCs and some enemies. Not as optimized as other packs, but should run well for most.
