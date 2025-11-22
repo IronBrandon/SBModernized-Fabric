@@ -67,6 +67,7 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **Particle Rain** by PigCart
 - **Puzzle** by PuzzleMC & Motschen
 - **Resource Pack Options** by JFronn
+- **Resource Pack Overrides** by Fuzs
 - **Roughly Enough Items** by shedanie
 - **Sodium** by JellySquid3 _and contributors_
 - **Sodium Options** & **Sodium Extra** by FlashyReese
