@@ -86,16 +86,16 @@ For optimization, clouds are disabled on all the default shaders and we instead 
 
 Below are some notable keybinds (_all command binds are in SkyBlocker).
 
-* **C**: Player Equipment `/equipment`
-* **B**: Booster Cookie Menu `/boostercookie`
-* **M**: Open Map (_Skycubed_)
-* **Left Alt** (hold): Show tab secondary view (_Skyblocker_)
-* **U**: Wardrobe Menu `/wardrobe`
-* **I**: Storage Menu `/storage`
-* **P**: Pets Menu `/pets`
-* **Numpad 0**: Warp Menu `/warp`
-* **Numpad Period**: Warp to Hub `/hub`
-* **_Disabled Binds_**: Pick Block, Load/Save Hotbar, Social Interactions Screen, Advancements, Toggle Gamma, Toggle Night Vision, All Rhizome Binds, Bazaar Refresh, Reload Shaders, Open Friends GUI, Zoom
+- **C**: Player Equipment `/equipment`
+- **B**: Booster Cookie Menu `/boostercookie`
+- **M**: Open Map (_Skycubed_)
+- **Left Alt** (hold): Show tab secondary view (_Skyblocker_)
+- **U**: Wardrobe Menu `/wardrobe`
+- **I**: Storage Menu `/storage`
+- **P**: Pets Menu `/pets`
+- **Numpad 0**: Warp Menu `/warp`
+- **Numpad Period**: Warp to Hub `/hub`
+- **_Disabled Binds_**: Pick Block, Load/Save Hotbar, Social Interactions Screen, Advancements, Toggle Gamma, Toggle Night Vision, All Rhizome Binds, Bazaar Refresh, Reload Shaders, Open Friends GUI, Zoom
 
 - - -
 
