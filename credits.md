@@ -2,6 +2,8 @@
 
 Major thanks to **all** the mod, resource-pack, and shader-pack programmers, artists, UI designers, sound engineers, etc. All of these come together to make a functional and beautiful modpack, I only put them together and made minor adjustments to existing settings, these are the true heroes!
 
+If you have a mod that is in the modpack that is missing credit, micredited, or that you'd like removed, request credit or removal at <ironbrandon22@gmail.com>
+
 ### Modifications
 
 #### Skyblock Enhancements
@@ -40,6 +42,7 @@ Major thanks to **all** the mod, resource-pack, and shader-pack programmers, art
   - _and contributors_
 - **EntityCulling** by tr7zw
 - **Essential** by ModCore Inc
+- **FancyMenu** by Keksuccino
 - **FerriteCore** by malte0811
 - **Gamma Utils** by Sjouwer _and contributors_
 - **ImmediatelyFast** by RK_01
@@ -107,8 +110,6 @@ Major thanks to **all** the mod, resource-pack, and shader-pack programmers, art
 - **Fusion Connected Blocks** by SuperMartijn
 - **Simple Grass Flowers** by 2DWisp
 - **Particles Remastered!** by nela1
-- **Cubic Leaves** by zanderest
-- **Whimscape Leaves** by kavast
 - **3D Crops Revamped** by vexcenot
 - **FurfSky Reborn** by Tylerrrr
 - **Detailed Animations** by Cymock
@@ -118,3 +119,4 @@ Major thanks to **all** the mod, resource-pack, and shader-pack programmers, art
 ### Shader Pack
 
 - **Photon Shaders** by sixthsurge (_and others_)
+- **Complementary Shaders** by EminGT

@@ -87,7 +87,7 @@
 * Detailed Animations 1.15
 * Fast Better Grass 1.21.9
 * Fast Better Grass For Simple Grass Flowers 1.0
-* Fresh Animations 1.10.1
+* Fresh Animations 1.10.2
 * Furfsky Reborn 1.9.1+mc1.21
 * Fusion Connected Blocks 1.0.2-mc1.20-1.21.9
 * Leaves Plus 1.0
@@ -101,3 +101,4 @@
 ## Shader Packs
 
 * Photon Shaders 1.2a
+* Complementary 5.6.1
