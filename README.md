@@ -31,7 +31,7 @@ This modpack is intended to be out-of-box play, but here I'll have helpful tips 
 ## Setup
 
 1. Like any other Modrinth modpack, simply open this modpack page in the Modrinth App and install your desired version.
-2. Before starting the game, open the Settings (_gear icon_), click Java and Memory, and set a custom amount of allocated memory, or use the recommended settings below. Be sure to not set it too high, the very highest you should use is 12 GB.
+2. Before starting the game, open the Settings (_gear icon_), click Java and Memory, and set a custom amount of allocated memory, or use the recommended settings below. Be sure to not set it too high, this can lead to performance issues.
    - 2560 MB Minimum Allocated
    - **6-8 GB RAM**: 3 GB Allocated
    - **12-16 GB RAM**: 6 GB Allocated

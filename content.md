@@ -39,7 +39,7 @@ Fabric 0.17.3
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
 - Particle Rain 4-beta.3
-- Puzzle 2.1.1
+- Puzzle 2.2.0
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.10
 
