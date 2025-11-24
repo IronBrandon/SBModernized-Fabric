@@ -1,5 +1,10 @@
 # SBModernized
 
+## Game
+
+Minecraft: Java Edition 1.21.8\
+Fabric 0.17.3
+
 ## Mods
 
 ### Skyblock & QOL
