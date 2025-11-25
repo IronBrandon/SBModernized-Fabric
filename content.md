@@ -72,7 +72,7 @@ Fabric 0.17.3
 - Balm 21.8.10
 - Cloth Config API 19.0.147
 - CreativeCore 2.14.7
-- Entity Model Features 3.0.1
+- Entity Model Features 3.0.7
 - Entity Texture Features 7.0.2
 - Fabric API 0.136.1
 - Fabric Language Kotlin 1.13.7

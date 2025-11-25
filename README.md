@@ -45,12 +45,12 @@ Now you should be ready to just play! If you are playing in a resolution other t
 
 It's recommended that you keep all the packs as-is, but here are the purposes of some of the packs.
 
-1. **FurfSky Reborn** is _highly_ recommended for Skyblock. FurfSky is one of the best SkyBlock item resource packs with textures for almost every custom item in SkyBlock.
+1. **FurfSky Reborn** is _highly_ recommended. FurfSky is one of the best SkyBlock item resource packs with textures for almost every custom item in SkyBlock.
 2. **Leaves Plus** is for more pretty leaves. This is well optimized but you may disable if it isn't your cup of tea.
-3. **Crops 3D** is for 3D and more pretty crops. May have a minor performance hit, especially on the garden, but appears to be optimized for most systems.
+3. **Crops 3D** and **Crops & Foliage Variations** is for prettier crops. May have a minor performance hit on the garden or farm, but seem to be optimized for most systems.
 4. **FreshAnimations** is for more lively mob animations. Pretty well optimized and should work fine in most appears, this is purely preference.
 5. **Detailed Animations** has beautiful player animations, which also apply to NPCs and some enemies. Not as optimized as other packs, but should run well for most.
-6. **No Enchant Glint** is very subjective but I've found it useful as enchant glint can be overwhelming in the Skyblock Ender Chests and Backpacks.
+6. **No Enchant Glint** can be used for removing the enchant glint.
 7. **Serified Font** is another preference thing. Has no noticeable performance impact and looks perfect in a majority of UIs, and in some cases simply looks better than Vanilla font.
 
 Try to keep the resource packs in their default order. Cubic Leaves and Whimscape Leaves only work together if Cubic is over Whimscape.
