@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "failed_reloads_per_session": 10,
+  "failed_reloads_per_session": 20,
   "default_packs": [
     "vanilla",
     "fabric",

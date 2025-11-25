@@ -36,8 +36,9 @@ This modpack is intended to be out-of-box play, but here I'll have helpful tips 
    - **6-8 GB RAM**: 3 GB Allocated
    - **12-16 GB RAM**: 6 GB Allocated
    - **24-32 GB RAM**: 8 GB Allocated
-3. Lastly, you can set a custom window size or set fullscreen if desired, then play the game.
-4. You can change some settings before starting, but to change certain settings involving UI for mods like BetterF3, Skyblocker, SkyHanni, etc. you must join Hypixel SkyBlock.
+3. You can also set a custom window size or set fullscreen if desired, then start the game.
+4. Also, importantly, you should go to `Options > Resource Packs` then click `Done` to be sure all the resource packs load properly.
+5. You can change some settings before starting, but to change certain settings involving UI for mods like BetterF3, Skyblocker, SkyHanni, etc. you must join Hypixel SkyBlock.
 
 Now you should be ready to just play! If you are playing in a resolution other than 1920x1080 you can change the UI as you go, referring to the below tips if needed.
 
