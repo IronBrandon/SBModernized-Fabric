@@ -44,6 +44,7 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **Essential** by ModCore Inc
 - **FancyMenu** by Keksuccino
 - **FerriteCore** by malte0811
+- **Fusion (Connected Textures)** by SuperMartijn642
 - **Gamma Utils** by Sjouwer _and contributors_
 - **ImmediatelyFast** by RK_01
 - **Iris**
@@ -87,7 +88,6 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - CreativeMD
 - AriaFreeze
 - AzureAaron
-- SuperMartijn642
 - Crendgrim
 - JFronny
 - Juuz
@@ -108,7 +108,6 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **Bee's Serified Font** by bebebea_loste
 - **Fast Better Grass** by robotkoer
 - **Connected Paths** & **FBG for SGF** by Jacosvaldo
-- **Fusion Connected Blocks** by SuperMartijn
 - **Simple Grass Flowers** by 2DWisp
 - **Particles Remastered!** by nela1
 - **3D Crops Revamped** by vexcenot

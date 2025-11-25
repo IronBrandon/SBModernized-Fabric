@@ -35,6 +35,7 @@ Fabric 0.17.3
 - Continuity 3.0.1-beta.1
 - Cubes Without Borders 3.0.0
 - Dynamic Crosshair 9.8
+- Fusion (Connected Textures) 1.2.11
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
@@ -75,7 +76,6 @@ Fabric 0.17.3
 - Entity Texture Features 7.0.2
 - Fabric API 0.136.1
 - Fabric Language Kotlin 1.13.7
-- Fusion (Connected Textures) 1.2.11
 - Konkrete 1.9.12
 - LibJF 3.19.2
 - Melody 1.0.12
@@ -95,7 +95,6 @@ Fabric 0.17.3
 - Fast Better Grass For Simple Grass Flowers 1.0
 - Fresh Animations 1.10.2
 - Furfsky Reborn 1.9.1+mc1.21
-- Fusion Connected Blocks 1.0.2-mc1.20-1.21.9
 - Leaves Plus 1.0
 - No Enchant Glint 1.21.8
 - Particles Remasterd! 2.0
