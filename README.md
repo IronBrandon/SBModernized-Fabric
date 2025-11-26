@@ -11,22 +11,18 @@ Goodbye, 1.8.9, you will be missed...
 
 The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. At the moment, SBModernized is just a set of several great mods with preset default configs. However, to get this modpack into a _finished_ state I will be adding custom features to make customization quick and easy, but that's coming in the future.
 
+- - -
+
 # How to Use
 
 This modpack is intended to be out-of-box play, but here I'll have helpful tips and potential issues you may run into.
 
 ## Requirements
 
-### Minimum
-
-- **OS**: Windows 7+ or Linux/X11
-- **Memory**: 6 GB RAM (3 GB Allocated)
+- **Memory**:
+  - _[Minimum]_ 6 GB RAM (3 GB Allocated)
+  - _[Recommended]_ 12 GB RAM (6 GB Allocated)
 - **Storage**: 1 GB available storage
-
-### Recommended
-
-- **OS**: Windows 10+ or Linux/X11
-- **Memory**: 12 GB RAM (6144 MB Allocated)
 
 ## Setup
 
