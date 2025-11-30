@@ -12,7 +12,7 @@ Fabric 0.17.3
 - Skyblock
   - Firmament 3.11.0
   - Skyblocker 5.9.0
-  - SkyHanni 5.1.0
+  - SkyHanni 5.4.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.1 (_should auto-update_)
@@ -57,7 +57,7 @@ Fabric 0.17.3
 - Sodium Extra 0.7.0
 - More Culling 1.4.0
 - Krypton 0.2.9
-- BadOptimizations 2.3.1
+- BadOptimizations 2.4.0
 
 ### Modpack-Specific
 
@@ -99,7 +99,7 @@ Fabric 0.17.3
 - No Enchant Glint 1.21.8
 - Particles Remasterd! 2.0
 - Simple Grass Flowers 1.9.6
-- Skyblock Dark UI 1.6.1
+- Skyblock Dark UI 1.7
 
 > additional resource-packs are added by mods
 
