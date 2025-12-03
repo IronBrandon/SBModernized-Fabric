@@ -24,10 +24,6 @@
     "force_compatible": true
   },
   "pack_overrides": {
-    "continuity:glass_pane_culling_fix": {
-      "required": true,
-      "hidden": true
-    },
     "1": [
       "file/Fast Better Grass.zip",
       "file/Connected Paths v1.4.zip",
