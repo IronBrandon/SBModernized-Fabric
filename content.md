@@ -15,7 +15,7 @@ Fabric 0.17.3
   - SkyHanni 5.4.0
   - SkyCubed 1.7.0
 - Quality-of-Life
-  - Essential 1.3.10.1 (_should auto-update_)
+  - Essential 1.3.10.3 (_should auto-update_)
   - Dynamic Crosshair 9.8
   - Better F3 15.0.0
   - Tooltip Scroll 1.5.0
