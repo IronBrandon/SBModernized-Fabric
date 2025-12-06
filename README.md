@@ -50,7 +50,7 @@ It's recommended that you keep all the packs as-is, but here are the purposes of
 6. **No Enchant Glint** can be used for removing the enchant glint.
 7. **Serified Font** is another preference thing. Has no noticeable performance impact and looks perfect in a majority of UIs, and in some cases simply looks better than Vanilla font.
 
-Try to keep the resource packs in their default order. Cubic Leaves and Whimscape Leaves only work together if Cubic is over Whimscape.
+Try to keep the resource packs in their default order.
 
 ## Visuals
 
