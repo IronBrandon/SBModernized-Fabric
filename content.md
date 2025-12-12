@@ -11,14 +11,14 @@ Fabric 0.17.3
 
 - Skyblock
   - Firmament 3.11.0
-  - Skyblocker 5.9.0
+  - Skyblocker 42.0.0
   - SkyHanni 5.4.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
   - Dynamic Crosshair 9.8
   - Better F3 15.0.0
-  - Tooltip Scroll 1.5.0
+  - Tooltip Scroll 1.5.1
   - More Chat History 1.3.1
   - Mouse Tweaks 2.28
   - Gamma Utils 2.3.6
@@ -40,16 +40,16 @@ Fabric 0.17.3
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
 - Particle Rain 4-beta.3
-- Puzzle 2.2.0
+- Puzzle 2.2.1
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.10
 
 ### Performance
 
-- Dynamic FPS 3.9.6
-- Entity Culling 1.9.3
+- Dynamic FPS 3.11.0
+- Entity Culling 1.9.4
 - FerriteCore 8.0.0
-- ImmediatelyFast 1.12.2
+- ImmediatelyFast 1.12.3
 - Lithium 0.18.1
 - Packet Fixer 3.3.1
 - Reese's Sodium Options 1.8.4
@@ -81,7 +81,7 @@ Fabric 0.17.3
 - Melody 1.0.12
 - Mod Menu 15.0.0
 - Text Placeholder API 2.7.2
-- YetAnotherConfigLib 3.7.1
+- YetAnotherConfigLib 3.8.1
 - Searchables 1.0.2
 
 ## Resource-Packs
