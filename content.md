@@ -34,7 +34,6 @@ Fabric 0.17.3
 - Chat Heads 0.14.2
 - Continuity 3.0.1-beta.1
 - Cubes Without Borders 3.0.0
-- Dynamic Crosshair 9.8
 - Fusion (Connected Textures) 1.2.11
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
@@ -88,10 +87,10 @@ Fabric 0.17.3
 
 - (Bee's) Serified Font 1.2
 - 3D Crops Revamped 3.0
-- Connected Paths 1.4
+- Connected Paths 1.4.1
 - Crop & Foliage Variations 2.0
 - Detailed Animations 1.15
-- Fast Better Grass 1.21.9
+- Fast Better Grass 1.21.11
 - Fast Better Grass For Simple Grass Flowers 1.0
 - Fresh Animations 1.10.2
 - Furfsky Reborn 1.9.1+mc1.21
