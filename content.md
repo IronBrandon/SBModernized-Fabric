@@ -10,8 +10,8 @@ Fabric 0.17.3
 ### Skyblock & QOL
 
 - Skyblock
-  - Firmament 3.11.0
-  - Skyblocker 42.0.0
+  - Firmament 42.0.0
+  - Skyblocker 5.9.1
   - SkyHanni 5.4.0
   - SkyCubed 1.7.0
 - Quality-of-Life
