@@ -12,7 +12,7 @@ Fabric 0.17.3
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.9.1
-  - SkyHanni 5.4.0
+  - SkyHanni 5.5.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
