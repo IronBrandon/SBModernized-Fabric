@@ -11,8 +11,8 @@ Fabric 0.17.3
 
 - Skyblock
   - Firmament 42.0.0
-  - Skyblocker 5.9.1
-  - SkyHanni 5.5.0
+  - Skyblocker 5.10.0
+  - SkyHanni 5.6.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
@@ -45,18 +45,18 @@ Fabric 0.17.3
 
 ### Performance
 
+- BadOptimizations 2.4.1
 - Dynamic FPS 3.11.0
 - Entity Culling 1.9.4
 - FerriteCore 8.0.0
 - ImmediatelyFast 1.12.3
+- Krypton 0.2.9
 - Lithium 0.18.1
+- More Culling 1.4.0
 - Packet Fixer 3.3.1
 - Reese's Sodium Options 1.8.4
 - Sodium 0.7.3
 - Sodium Extra 0.7.0
-- More Culling 1.4.0
-- Krypton 0.2.9
-- BadOptimizations 2.4.0
 
 ### Modpack-Specific
 
@@ -93,7 +93,7 @@ Fabric 0.17.3
 - Fast Better Grass 1.21.11
 - Fast Better Grass For Simple Grass Flowers 1.0
 - Fresh Animations 1.10.2
-- Furfsky Reborn 1.9.1+mc1.21
+- Furfsky Reborn 1.9.2+mc1.21
 - Leaves Plus 1.0
 - No Enchant Glint 1.21.8
 - Particles Remasterd! 2.0
