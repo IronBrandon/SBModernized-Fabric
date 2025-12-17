@@ -12,7 +12,7 @@ Fabric 0.17.3
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.10.0
-  - SkyHanni 5.6.0
+  - SkyHanni 5.8.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
@@ -74,7 +74,7 @@ Fabric 0.17.3
 - Entity Model Features 3.0.7
 - Entity Texture Features 7.0.2
 - Fabric API 0.136.1
-- Fabric Language Kotlin 1.13.7
+- Fabric Language Kotlin 1.13.8
 - Konkrete 1.9.12
 - LibJF 3.19.2
 - Melody 1.0.12
