@@ -52,7 +52,7 @@ It's recommended that you keep all the packs as-is, but here are the purposes of
 
 Try to keep the resource packs in their default order.
 
-## Visuals
+## Visuals & Audio
 
 **Resolution**\
 Because SBModernized was made for 1920x1080 monitors and optimized for my mid-level PC, other resolutions and PCs may need many changes to the HUD and graphics settings.\
@@ -64,6 +64,9 @@ If the shaders don't run well for you, I recommend primarily playing with them o
 
 **Clouds**\
 For optimization, clouds are disabled on all the default shaders and we instead use Better Clouds, which still look good without being taxing on performance.
+
+**Sound Physics**\
+One included mod, Sound Physics, will not be for everyone. Set Friendly Mob and Hostile Mob sounds to 40%, then disable Sound Physics if you don't like the audio (_you can do this in the config or in the modrinth content menu_).
 
 ## User-Interface
 
