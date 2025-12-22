@@ -3,7 +3,7 @@
 ## Game
 
 Minecraft: Java Edition 1.21.8\
-Fabric 0.17.3
+Fabric 0.18.3
 
 ## Mods
 
@@ -12,7 +12,7 @@ Fabric 0.17.3
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.10.0
-  - SkyHanni 5.8.0
+  - SkyHanni 6.2.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
@@ -34,7 +34,7 @@ Fabric 0.17.3
 - Chat Heads 0.14.2
 - Continuity 3.0.1-beta.1
 - Cubes Without Borders 3.0.0
-- Fusion (Connected Textures) 1.2.11
+- Fusion (Connected Textures) 1.2.11a
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
@@ -49,7 +49,7 @@ Fabric 0.17.3
 - Dynamic FPS 3.11.0
 - Entity Culling 1.9.4
 - FerriteCore 8.0.0
-- ImmediatelyFast 1.12.3
+- ImmediatelyFast 1.12.4
 - Krypton 0.2.9
 - Lithium 0.18.1
 - More Culling 1.4.0
@@ -92,10 +92,10 @@ Fabric 0.17.3
 - Detailed Animations 1.15
 - Fast Better Grass 1.21.11
 - Fast Better Grass For Simple Grass Flowers 1.0
-- Fresh Animations 1.10.2
+- Fresh Animations 1.10.3
 - Furfsky Reborn 1.9.2+mc1.21
 - Leaves Plus 1.0
-- No Enchant Glint 1.21.8
+- No Enchant Glint
 - Particles Remasterd! 2.0
 - Simple Grass Flowers 1.9.6
 - Skyblock Dark UI 1.7
