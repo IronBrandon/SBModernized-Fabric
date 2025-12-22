@@ -6,7 +6,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.375
+fov:0.5
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -90,13 +90,13 @@ menuBackgroundBlurriness:5
 startedCleanly:true
 showNowPlayingToast:false
 musicFrequency:"DEFAULT"
-soundCategory_master:0.6048565121412804
-soundCategory_music:0.2230046948356807
+soundCategory_master:0.6
+soundCategory_music:0.2
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:0.45305164319248814
-soundCategory_hostile:0.45774647887323944
-soundCategory_neutral:1.0
+soundCategory_block:0.4
+soundCategory_hostile:0.4
+soundCategory_neutral:0.4
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
