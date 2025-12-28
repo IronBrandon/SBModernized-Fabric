@@ -11,8 +11,8 @@ Fabric 0.18.3
 
 - Skyblock
   - Firmament 42.0.0
-  - Skyblocker 5.10.0
-  - SkyHanni 6.2.0
+  - Skyblocker 5.11.0
+  - SkyHanni 6.3.0
   - SkyCubed 1.7.0
 - Quality-of-Life
   - Essential 1.3.10.3 (_should auto-update_)
@@ -38,7 +38,7 @@ Fabric 0.18.3
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
-- Particle Rain 4-beta.3
+- Particle Rain 4-beta.5
 - Puzzle 2.2.1
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.10
