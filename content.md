@@ -72,7 +72,7 @@ Fabric 0.18.3
 - Cloth Config API 19.0.147
 - CreativeCore 2.14.7
 - Entity Model Features 3.0.7
-- Entity Texture Features 7.0.2
+- Entity Texture Features 7.0.8
 - Fabric API 0.136.1
 - Fabric Language Kotlin 1.13.8
 - Konkrete 1.9.12

@@ -1,6 +1,6 @@
 # SBModernized
 
-![Looking off the side of a trail in the Galatea on Skyblock](https://cdn.modrinth.com/data/u65nefBD/images/0d0f9bfe5d5d4649ebdea4bde3e357da42a02c90.png)
+![Featured Image in SBModernized][FEATURED_IMAGE]
 
 - - -
 
@@ -86,21 +86,24 @@ One included mod, Sound Physics, will not be for everyone. Set Friendly Mob and 
 
 Below are some notable keybinds (_all command binds are in SkyBlocker).
 
-- **C**: Player Equipment `/equipment`
-- **B**: Booster Cookie Menu `/boostercookie`
 - **M**: Open Map (_Skycubed_)
 - **Left Alt** (hold): Show tab secondary view (_Skyblocker_)
+- **C**: Player Equipment `/equipment`
+- **B**: Booster Cookie Menu `/boostercookie`
 - **U**: Wardrobe Menu `/wardrobe`
 - **I**: Storage Menu `/storage`
 - **P**: Pets Menu `/pets`
 - **Numpad 0**: Warp Menu `/warp`
 - **Numpad Period**: Warp to Hub `/hub`
-- **_Disabled Binds_**: Pick Block, Load/Save Hotbar, Social Interactions Screen, Advancements, Toggle Gamma, Toggle Night Vision, All Rhizome Binds, Bazaar Refresh, Reload Shaders, Open Friends GUI, Zoom
+
+See all default keybinds in the [Default Options][KEYBINDINGS_SOURCE] config
 
 - - -
 
 ## More Info
 
-[Credits](credits.md)
-
+[Credits](credits.md)\
 [License](LICENSE.md)
+
+[KEYBINDINGS_SOURCE]: /config/defaultoptions/keybindings.txt
+[FEATURED_IMAGE]: featured.png
