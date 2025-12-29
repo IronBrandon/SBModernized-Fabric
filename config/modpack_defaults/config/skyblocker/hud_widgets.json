@@ -1,6 +1,50 @@
 {
   "positions": {
+    "dynamic": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
     "garden": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
       "Item Pickup": {
         "relative_x": -76,
         "relative_y": 0,
@@ -13,6 +57,20 @@
         "this_anchor": {
           "v": "TOP",
           "h": "LEFT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
         }
       },
       "hud_farming": {
@@ -32,8 +90,8 @@
     },
     "hub": {
       "hud_slayer": {
-        "relative_x": -4,
-        "relative_y": 0,
+        "relative_x": -7,
+        "relative_y": 6,
         "layer": "DEFAULT",
         "parent": "screen",
         "parent_anchor": {
@@ -72,25 +130,217 @@
           "v": "TOP",
           "h": "LEFT"
         }
-      }
-    },
-    "combat_3": {
+      },
       "hud_end": {
-        "relative_x": 10,
-        "relative_y": 10,
+        "relative_x": -7,
+        "relative_y": 76,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
         },
         "this_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
+        }
+      }
+    },
+    "farming_1": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "foraging_1": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "combat_1": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "combat_2": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "combat_3": {
+      "hud_slayer": {
+        "relative_x": 0,
+        "relative_y": 2,
+        "layer": "DEFAULT",
+        "parent": "hud_end",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -5,
+        "relative_y": 2,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "crimson_isle": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
         }
       }
     },
     "mining_1": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
       "Item Pickup": {
         "relative_x": -123,
         "relative_y": -1,
@@ -104,6 +354,50 @@
           "v": "TOP",
           "h": "LEFT"
         }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "mining_2": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
       }
     },
     "mining_3": {
@@ -114,6 +408,20 @@
         "parent": "commissions",
         "parent_anchor": {
           "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
           "h": "RIGHT"
         },
         "this_anchor": {
@@ -148,6 +456,170 @@
           "v": "TOP",
           "h": "LEFT"
         }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "fishing_1": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "dungeon_hub": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "winter": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "rift": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "dark_auction": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
       }
     },
     "crystal_hollows": {
@@ -158,6 +630,20 @@
         "parent": "commissions",
         "parent_anchor": {
           "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
           "h": "RIGHT"
         },
         "this_anchor": {
@@ -206,6 +692,20 @@
           "v": "TOP",
           "h": "LEFT"
         }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
       }
     },
     "dungeon": {
@@ -224,6 +724,66 @@
         }
       }
     },
+    "kuudra": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
+    "mineshaft": {
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      }
+    },
     "foraging_2": {
       "hud_treeprogress": {
         "relative_x": 37,
@@ -239,6 +799,20 @@
           "h": "LEFT"
         }
       },
+      "hud_slayer": {
+        "relative_x": -7,
+        "relative_y": 6,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
       "Lasso HUD": {
         "relative_x": 9,
         "relative_y": 96,
@@ -251,6 +825,20 @@
         "this_anchor": {
           "v": "TOP",
           "h": "LEFT"
+        }
+      },
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
         }
       }
     }
