@@ -621,11 +621,10 @@
       "centerY": true,
       "ignoreCustomScale": false
     },
-    "configButtonOnPause": true,
     "widenConfig": false,
     "titlePosition": {
-      "x": 321,
-      "y": 39,
+      "x": 233,
+      "y": 54,
       "scale": 0.79999995,
       "centerX": false,
       "centerY": true,
@@ -740,7 +739,9 @@
           "OVERGROWN_GRASS",
           "GREEN_BANDANA",
           "DEDICATION_IV",
-          "COPPER_DYE"
+          "COPPER_DYE",
+          "HYPERCHARGE_CHIP",
+          "QUICKDRAW_CHIP"
         ],
         "displayNumbersFirst": true,
         "displayIcons": false,
@@ -935,7 +936,6 @@
         }
       },
       "distanceDisplay": false,
-      "distanceSoulSandWarning": true,
       "distanceDisplayPosition": {
         "x": 0,
         "y": 200,
@@ -979,19 +979,6 @@
       "etaGoalRank": "10000",
       "ignoreLow": false,
       "showOutsideGarden": false
-    },
-    "dicerRngDropTracker": {
-      "enabled": true,
-      "compact": false,
-      "hideChat": false,
-      "position": {
-        "x": 16,
-        "y": -232,
-        "scale": 1.0,
-        "centerX": false,
-        "centerY": true,
-        "ignoreCustomScale": false
-      }
     },
     "moneyPerHours": {
       "display": false,
@@ -1225,6 +1212,7 @@
         "cooldownWarningTime": 5,
         "customCooldown": false,
         "customCooldownTime": 135,
+        "customCooldownTimeFinnegan": 75,
         "averagePestSpawnTimeout": 30,
         "pestSpawnChatMessage": false,
         "sound": {
@@ -1439,6 +1427,7 @@
     "hoeLevelDisplay": {
       "enabled": true,
       "overflow": true,
+      "muteHoeSounds": true,
       "position": {
         "x": 100,
         "y": 100,
@@ -1455,7 +1444,6 @@
       "hideTooltips": true
     },
     "plotPrice": true,
-    "fungiCutterWarn": false,
     "burrowingSporesNotificationType": "TITLE",
     "cropSpeedMeterPos": {
       "x": 278,
@@ -2499,6 +2487,15 @@
         "ignoreCustomScale": false
       },
       "compactGiftChats": true,
+      "compactGiftBonusDropsList": [
+        "UNCOMMON_DROPS",
+        "ENCHANTED_BOOKS",
+        "MOBS",
+        "BOOSTERS",
+        "SHARDS",
+        "RUNES",
+        "MISC"
+      ],
       "onlyHoldingAxe": true,
       "disappearingDelay": 15,
       "showWholeTrees": true
@@ -2933,7 +2930,6 @@
         "twinClawsTitle": true
       },
       "withAlpha": 80,
-      "seeThrough": false,
       "changeColorWhenCanSteak": true,
       "steakColor": "0:255:255:0:88",
       "twinclawsDelay": 0,
@@ -3057,7 +3053,6 @@
     },
     "damageSplashBoss": false,
     "highlightDeathmites": true,
-    "highlightTeammates": true,
     "architectNotifier": true,
     "objectHighlighter": {
       "starred": {
@@ -4934,11 +4929,6 @@
         "ignoreCustomScale": false
       }
     },
-    "glowingDroppedItems": {
-      "enabled": false,
-      "highlightShowcase": false,
-      "highlightFishingBait": false
-    },
     "highlightPartyMembers": {
       "enabled": false,
       "outlineColor": "0:245:85:255:85"
@@ -5094,13 +5084,11 @@
     "crashOnDeath": false,
     "skyblockXPBar": false,
     "xpInInventory": true,
-    "hideScoreboardNumbers": false,
     "hidePiggyScoreboard": true,
     "colorMonthNames": false,
     "hideExplosions": false,
     "crystalHollowsJoin": true,
     "hideFireOverlay": false,
-    "betterSignEditing": true,
     "playerMovementSpeed": false,
     "playerMovementSpeedPos": {
       "x": 394,
@@ -5147,8 +5135,19 @@
       "openLastStorage": true,
       "fallbackCommand": "ec 1"
     },
+    "customTodos": {
+      "enabled": true,
+      "separateGuis": true,
+      "position": {
+        "x": 150,
+        "y": 200,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true,
+        "ignoreCustomScale": false
+      }
+    },
     "maintainGameVolume": false,
-    "neuSoulsPathFind": true,
     "fastFairySouls": false,
     "gfsPiggyBank": true,
     "userLuck": true,
@@ -5165,7 +5164,8 @@
     "transparentTooltips": false,
     "hideExCoopMembers": false,
     "abiphoneAcceptKey": -1,
-    "fixDoubleClicks": false
+    "fixDoubleClicks": false,
+    "fixColorParticles": false
   },
   "dev": {
     "repo": {
@@ -5226,7 +5226,6 @@
       "forceGreatSpook": false,
       "moongladeBeacon": false,
       "addonsDebug": false,
-      "auraPropaganda": false,
       "addonsDebugPosition": {
         "x": 300,
         "y": 300,
@@ -5401,6 +5400,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 111,
+  "lastVersion": 113,
   "lastMinecraftVersion": "1.21.8"
 }
