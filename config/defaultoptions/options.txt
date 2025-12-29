@@ -6,7 +6,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.5
+fov:0.375
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -98,9 +98,9 @@ soundCategory_block:0.4
 soundCategory_hostile:0.4
 soundCategory_neutral:0.4
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.6
 soundCategory_voice:1.0
-soundCategory_ui:1.0
+soundCategory_ui:0.6
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
