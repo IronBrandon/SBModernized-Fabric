@@ -34,7 +34,6 @@ Fabric 0.18.3
 - Chat Heads 0.14.2
 - Continuity 3.0.1-beta.1
 - Cubes Without Borders 3.0.0
-- Fusion (Connected Textures) 1.2.11a
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
 - Particle Interactions 0.8.5
@@ -71,7 +70,7 @@ Fabric 0.18.3
 - Balm 21.8.10
 - Cloth Config API 19.0.147
 - CreativeCore 2.14.7
-- Entity Model Features 3.0.7
+- Entity Model Features 3.0.10
 - Entity Texture Features 7.0.8
 - Fabric API 0.136.1
 - Fabric Language Kotlin 1.13.8
@@ -89,6 +88,7 @@ Fabric 0.18.3
 - 3D Crops Revamped 3.0
 - Connected Paths 1.4.1
 - Crop & Foliage Variations 2.0
+- Dark Skyblock 0.2.1 (_disabled by default_)
 - Detailed Animations 1.15
 - Fast Better Grass 1.21.11
 - Fast Better Grass For Simple Grass Flowers 1.0
