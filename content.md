@@ -3,7 +3,7 @@
 ## Game
 
 Minecraft: Java Edition 1.21.8\
-Fabric 0.18.3
+Fabric 0.18.4
 
 ## Mods
 
@@ -12,14 +12,14 @@ Fabric 0.18.3
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.11.0
-  - SkyHanni 6.3.0
+  - SkyHanni 6.4.0
   - SkyCubed 1.7.0
 - Quality-of-Life
+  - Chat Patches 8.0-a7
   - Essential 1.3.10.3 (_should auto-update_)
   - Dynamic Crosshair 9.8
   - Better F3 15.0.0
   - Tooltip Scroll 1.5.1
-  - More Chat History 1.3.1
   - Mouse Tweaks 2.28
   - Gamma Utils 2.3.6
   - Roughly Enough Items 20.0.811
@@ -85,10 +85,10 @@ Fabric 0.18.3
 ## Resource-Packs
 
 - (Bee's) Serified Font 1.2
-- 3D Crops Revamped 3.0
+- 3D Crops Revamped 3
 - Connected Paths 1.4.1
 - Crop & Foliage Variations 2.0
-- Dark Skyblock 0.2.1 (_disabled by default_)
+- Dark Skyblock 0.2.1 (_off by default_)
 - Detailed Animations 1.15
 - Fast Better Grass 1.21.11
 - Fast Better Grass For Simple Grass Flowers 1.0
