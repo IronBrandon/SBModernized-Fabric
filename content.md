@@ -98,7 +98,7 @@ Fabric 0.18.4
 - No Enchant Glint
 - Particles Remasterd! 2.0
 - Simple Grass Flowers 1.9.6
-- Skyblock Dark UI 1.7
+- Skyblock Dark UI 1.8
 
 > additional resource-packs are added by mods
 
