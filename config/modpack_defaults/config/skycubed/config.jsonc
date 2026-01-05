@@ -11,9 +11,7 @@
         "HEALTH"
     ],
     // Valid Values: HOTBAR, JUMP, EXPERIENCE, HEALTH, ARMOR, FOOD, AIR, SCOREBOARD, EFFECTS
-    "hiddenHudElements": [
-        "SCOREBOARD"
-    ],
+    "hiddenHudElements": [],
     "overlays": {
         "info": {
             "enabled": true,
@@ -112,9 +110,9 @@
             ]
         },
         "commissions": {
-            "enabled": true,
-            "format": true,
-            "background": false
+            "enabled": false,
+            "format": false,
+            "background": true
         },
         "npc": {
             "enabled": false,
@@ -252,10 +250,10 @@
         }
     },
     "screens": {
-        "equipment": true,
+        "equipment": false,
         "wardrobe": {
-            "enabled": true,
-            "textures": true,
+            "enabled": false,
+            "textures": false,
             // Valid Values: NONE, MINIMAL, WHOLE
             "tooltipType": "MINIMAL"
         }

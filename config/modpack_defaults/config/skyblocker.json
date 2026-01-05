@@ -331,7 +331,7 @@
     "fancyPartyFinder": true,
     "croesusHelper": true,
     "salvageHelper": true,
-    "onlyHighlightDonatedItems": false,
+    "onlyHighlightDonatedItems": true,
     "sellableItemsHighlighter": true,
     "bloodCampHelper": false,
     "playerSecretsTracker": true,
@@ -339,7 +339,7 @@
     "starredMobGlow": false,
     "starredMobBoundingBoxes": false,
     "highlightDoorKeys": true,
-    "allowDroppingProtectedItems": false,
+    "allowDroppingProtectedItems": true,
     "dungeonSplits": false,
     "hideSoulweaverSkulls": false,
     "dungeonMap": {
@@ -348,8 +348,8 @@
       "showSelfHead": true,
       "showRoomLabels": true,
       "mapScaling": 1.0,
-      "mapX": 21,
-      "mapY": 37
+      "mapX": 472,
+      "mapY": 24
     },
     "leapOverlay": {
       "enableLeapOverlay": true,
@@ -450,8 +450,8 @@
       "dungeonCryptsMessageThreshold": 250,
       "dungeonCryptsMessage": "Crypts: [crypts]/5",
       "enableScoreHUD": true,
-      "scoreX": 54,
-      "scoreY": 23,
+      "scoreX": 501,
+      "scoreY": 11,
       "scoreScaling": 1.0
     },
     "dungeonChestProfit": {

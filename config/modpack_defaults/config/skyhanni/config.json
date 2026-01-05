@@ -27,49 +27,32 @@
       }
     },
     "customScoreboard": {
-      "enabled": false,
+      "enabled": true,
       "scoreboardEntries": [
-        "TITLE",
         "LOBBY_CODE",
-        "EMPTY_LINE",
-        "DATE",
-        "TIME",
-        "ISLAND",
-        "PLAYER_AMOUNT",
         "VISITING",
-        "LOCATION",
-        "PROFILE",
         "EMPTY_LINE2",
-        "PURSE",
         "MOTES",
-        "BANK",
-        "BITS",
-        "COPPER",
         "SOWDUST",
-        "GEMS",
-        "HEAT",
         "COLD",
-        "NORTH_STARS",
-        "SOULFLOW",
         "EMPTY_LINE3",
+        "HEAT",
         "EVENTS",
+        "SOULFLOW",
         "COOKIE",
-        "QUIVER",
         "POWER",
-        "TUNING",
         "EMPTY_LINE4",
         "OBJECTIVE",
-        "SLAYER",
         "POWDER",
         "MAYOR",
+        "NORTH_STARS",
         "PARTY",
-        "FOOTER",
         "EXTRA"
       ],
       "display": {
         "alignment": {
-          "horizontalAlignment": "RIGHT",
-          "verticalAlignment": "CENTER",
+          "horizontalAlignment": "DONT_ALIGN",
+          "verticalAlignment": "DONT_ALIGN",
           "margin": 0
         },
         "arrow": {
@@ -184,9 +167,9 @@
       },
       "unknownLinesWarning": true,
       "position": {
-        "x": 10,
-        "y": 80,
-        "scale": 1.0,
+        "x": 2,
+        "y": 94,
+        "scale": 0.79999995,
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
@@ -676,8 +659,8 @@
       "shoppingList": {
         "enabled": true,
         "position": {
-          "x": 5,
-          "y": 172,
+          "x": 95,
+          "y": 3,
           "scale": 0.6999999,
           "centerX": false,
           "centerY": true,
@@ -1283,8 +1266,8 @@
         "hideWhenNone": false,
         "replaceMenuIcons": true,
         "position": {
-          "x": 205,
-          "y": 55,
+          "x": 8,
+          "y": 58,
           "scale": 1.0,
           "centerX": false,
           "centerY": true,
@@ -2059,7 +2042,8 @@
     "compactDoubleHook": true,
     "guessHotspotRadar": true,
     "guessHotspotRadarPathFind": true,
-    "lineToHotspot": false
+    "lineToHotspot": false,
+    "muteBanshee": false
   },
   "mining": {
     "miningEvent": {
@@ -3040,8 +3024,8 @@
     },
     "deathCounterDisplay": true,
     "deathCounterPos": {
-      "x": 10,
-      "y": 10,
+      "x": -126,
+      "y": 151,
       "scale": 1.0,
       "centerX": false,
       "centerY": true,
@@ -3325,11 +3309,24 @@
     "enchantParsing": {
       "colorParsing": true,
       "format": "NORMAL",
+      "ultimateEnchantColor": "LIGHT_PURPLE",
       "perfectEnchantColor": "CHROMA",
       "boldPerfectEnchant": false,
       "greatEnchantColor": "GOLD",
       "goodEnchantColor": "BLUE",
       "poorEnchantColor": "GRAY",
+      "advancedEnchantColors": {
+        "useAdvancedUltimateColor": false,
+        "advancedUltimateColor": "0:1:255:255:85",
+        "useAdvancedPerfectColor": false,
+        "advancedPerfectColor": "0:1:255:255:85",
+        "useAdvancedGreatColor": false,
+        "advancedGreatColor": "0:1:255:255:85",
+        "useAdvancedGoodColor": false,
+        "advancedGoodColor": "0:1:255:255:85",
+        "useAdvancedPoorColor": false,
+        "advancedPoorColor": "0:1:255:255:85"
+      },
       "commaFormat": "COPY_ENCHANT",
       "hideVanillaEnchants": true,
       "hideEnchantDescriptions": false,
@@ -3419,8 +3416,8 @@
       "depletedBonzosMasks": false
     },
     "customWardrobe": {
-      "enabled": false,
-      "eyesFollowMouse": false,
+      "enabled": true,
+      "eyesFollowMouse": true,
       "hideEmptySlots": false,
       "hideLockedSlots": false,
       "onlyFavorites": false,
@@ -3439,7 +3436,7 @@
         "bottomBorderColor": "0:255:255:0:0"
       },
       "spacing": {
-        "globalScale": 100,
+        "globalScale": 60,
         "outlineThickness": 5,
         "outlineBlur": 0.5,
         "slotWidth": 75,
@@ -3675,7 +3672,7 @@
       "itemsGreenLine": true
     },
     "personalCompactor": {
-      "enabled": true,
+      "enabled": false,
       "visibilityMode": "EXCEPT_KEYBIND",
       "keybind": 340,
       "showToggle": true
@@ -3816,7 +3813,7 @@
       "maxHeight": 250.0
     },
     "magicalPower": {
-      "enabled": false,
+      "enabled": true,
       "colored": false
     },
     "fannCost": {
@@ -3893,9 +3890,9 @@
         "ignoreCustomScale": false
       },
       "huntingBoxValuePosition": {
-        "x": 174,
-        "y": 139,
-        "scale": 1.0,
+        "x": 12,
+        "y": 30,
+        "scale": 0.79999995,
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
@@ -3936,7 +3933,7 @@
     "displaySackName": false,
     "anvilCombineHelper": false,
     "itemStars": false,
-    "ultimateEnchantStar": false,
+    "ultimateEnchantStar": true,
     "oldSkyBlockMenu": false,
     "favoritePowerStone": false,
     "shiftClickForEquipment": false,
@@ -4677,7 +4674,7 @@
     "hideJacob": true,
     "hideSkyMall": true,
     "hideLottery": true,
-    "shortenCoinAmounts": false,
+    "shortenCoinAmounts": true,
     "hideClickableHint": false
   },
   "misc": {
@@ -4815,8 +4812,8 @@
         "includeCurrentArea": false,
         "color": "0:245:85:255:85",
         "position": {
-          "x": 4,
-          "y": 95,
+          "x": 7,
+          "y": 7,
           "scale": 0.79999995,
           "centerX": false,
           "centerY": true,
@@ -4889,8 +4886,8 @@
       ],
       "position": {
         "x": 10,
-        "y": 80,
-        "scale": 1.0,
+        "y": -165,
+        "scale": 0.79999995,
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
@@ -5154,9 +5151,9 @@
     "warnAboutPcTimeOffset": true,
     "coralFishHelper": true,
     "coralFishHelperPosition": {
-      "x": 174,
-      "y": 139,
-      "scale": 1.0,
+      "x": 8,
+      "y": 9,
+      "scale": 0.79999995,
       "centerX": false,
       "centerY": true,
       "ignoreCustomScale": false

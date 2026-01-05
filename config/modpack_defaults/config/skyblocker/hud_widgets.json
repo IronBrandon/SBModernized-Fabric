@@ -59,6 +59,20 @@
           "h": "LEFT"
         }
       },
+      "hud_farming": {
+        "relative_x": -130,
+        "relative_y": 1,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -71,20 +85,6 @@
         "this_anchor": {
           "v": "TOP",
           "h": "RIGHT"
-        }
-      },
-      "hud_farming": {
-        "relative_x": 3,
-        "relative_y": 1,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
         }
       }
     },
@@ -444,17 +444,17 @@
         }
       },
       "commissions": {
-        "relative_x": 478,
-        "relative_y": 2,
+        "relative_x": -11,
+        "relative_y": 28,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
         },
         "this_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
         }
       },
       "hud_end": {
@@ -648,6 +648,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_pickobulus": {
+        "relative_x": -95,
+        "relative_y": -20,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
