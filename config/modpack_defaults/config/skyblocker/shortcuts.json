@@ -4,8 +4,8 @@
     "/cp": "/chat party",
     "/co": "/chat officer",
     "/d": "/warp dungeon_hub",
-    "/i": "/is",
     "/cg": "/chat guild",
+    "/i": "/is",
     "/ca": "/chat all",
     "/h": "/hub",
     "/s": "/skyblock",
@@ -14,19 +14,19 @@
   },
   "commandArgs": {
     "/v": "/visit",
-    "/pa": "/p accept",
-    "/m": "/msg"
+    "/m": "/msg",
+    "/pa": "/p accept"
   },
   "keyBindings": {
-    "key.keyboard.keypad.2": "/plottp barn",
-    "key.keyboard.keypad.0": "/warp",
-    "key.keyboard.keypad.decimal": "/hub",
     "key.keyboard.p": "/pets",
-    "key.keyboard.keypad.1": "/garden",
-    "key.keyboard.c": "/equipment",
     "key.keyboard.i": "/storage",
+    "key.keyboard.keypad.0": "/warp",
+    "key.keyboard.u": "/wardrobe",
     "key.keyboard.b": "/boostercookie",
     "key.keyboard.h": "/ab",
-    "key.keyboard.u": "/wardrobe"
+    "key.keyboard.c": "/equipment",
+    "key.keyboard.keypad.decimal": "/hub",
+    "key.keyboard.keypad.2": "/plottp barn",
+    "key.keyboard.keypad.1": "/garden"
   }
 }

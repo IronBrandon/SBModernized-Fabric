@@ -221,7 +221,7 @@
       "gyroOverlayColor": 2138445204
     },
     "itemPickup": {
-      "enabled": false,
+      "enabled": true,
       "sackNotifications": false,
       "showItemName": true,
       "lifeTime": 3,
@@ -512,7 +512,7 @@
     "commissionHighlight": true,
     "callMismyla": true,
     "redialOnBadSignal": true,
-    "enablePickobulusHelper": true,
+    "enablePickobulusHelper": false,
     "pickobulusHelper": {
       "enablePickobulusHud": true,
       "hideHudOnCooldown": false

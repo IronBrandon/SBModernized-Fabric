@@ -12,8 +12,8 @@ Fabric 0.18.4
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.11.0
-  - SkyHanni 6.4.0
-  - SkyCubed 1.7.0
+  - SkyHanni 6.6.0
+  - SkyCubed 1.8.0
 - Quality-of-Life
   - Chat Patches 8.0-a7
   - Essential 1.3.10.3 (_should auto-update_)
@@ -45,7 +45,7 @@ Fabric 0.18.4
 ### Performance
 
 - BadOptimizations 2.4.1
-- Dynamic FPS 3.11.0
+- Dynamic FPS 3.11.3
 - Entity Culling 1.9.4
 - FerriteCore 8.0.0
 - ImmediatelyFast 1.12.4
@@ -79,13 +79,12 @@ Fabric 0.18.4
 - Melody 1.0.12
 - Mod Menu 15.0.0
 - Text Placeholder API 2.7.2
-- YetAnotherConfigLib 3.8.1
+- YetAnotherConfigLib 3.8.2
 - Searchables 1.0.2
 
 ## Resource-Packs
 
 - (Bee's) Serified Font 1.2
-- 3D Crops Revamped 3
 - Connected Paths 1.4.1
 - Crop & Foliage Variations 2.0
 - Dark Skyblock 0.2.1 (_off by default_)

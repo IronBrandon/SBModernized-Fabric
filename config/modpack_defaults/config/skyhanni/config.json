@@ -606,7 +606,7 @@
     },
     "widenConfig": false,
     "titlePosition": {
-      "x": 233,
+      "x": 214,
       "y": 54,
       "scale": 0.79999995,
       "centerX": false,
@@ -1066,7 +1066,8 @@
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
-      }
+      },
+      "zorroCapeProtection": false
     },
     "armorDropTracker": {
       "enabled": false,
@@ -1910,9 +1911,9 @@
         "throwRodWarning": false,
         "throwRodWarningTime": 20,
         "position": {
-          "x": 50,
-          "y": 80,
-          "scale": 1.0,
+          "x": 95,
+          "y": 53,
+          "scale": 0.79999995,
           "centerX": false,
           "centerY": true,
           "ignoreCustomScale": false
@@ -3416,7 +3417,7 @@
       "depletedBonzosMasks": false
     },
     "customWardrobe": {
-      "enabled": true,
+      "enabled": false,
       "eyesFollowMouse": true,
       "hideEmptySlots": false,
       "hideLockedSlots": false,
@@ -3688,6 +3689,17 @@
       "floorName": false,
       "noDrop": false,
       "selectedDrop": false
+    },
+    "superCrafting": {
+      "waste": {
+        "enabled": true,
+        "threshold": 10.0,
+        "bulkThreshold": 5.0,
+        "withoutCookie": {
+          "threshold": 20.0,
+          "bulkThreshold": 10.0
+        }
+      }
     },
     "statsTuning": {
       "selectedStats": true,
@@ -3989,12 +4001,14 @@
       "highlightInquisitors": true,
       "color": "0:127:85:255:255",
       "guess": false,
-      "guessLogic": "PRECISE_GUESS",
       "multiGuesses": true,
       "burrowsNearbyDetection": false,
       "lineToNext": true,
       "guessFromArrow": true,
-      "warnIfInaccurateArrowGuess": false,
+      "warnOnFail": true,
+      "warnOnChainComp": true,
+      "renderSubGuesses": false,
+      "clearOnWorldChange": false,
       "burrowNearestWarp": false,
       "keyBindWarp": -1,
       "warpDistanceDifference": 10,
@@ -4046,7 +4060,8 @@
           "ignoreCustomScale": false
         },
         "showPercentage": false,
-        "hideChat": false
+        "hideChat": false,
+        "shardWarn": false
       },
       "allBurrowsList": {
         "save": true,
@@ -4783,8 +4798,8 @@
       "hopperProfitDisplay": true,
       "xpDisplay": true,
       "hopperProfitPos": {
-        "x": 360,
-        "y": 90,
+        "x": 9,
+        "y": 14,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -4805,8 +4820,8 @@
         "ignoreCustomScale": false
       }
     },
-    "areaNavigation": {
-      "pathfinder": {
+    "navigation": {
+      "areasList": {
         "enabled": true,
         "showAlways": false,
         "includeCurrentArea": false,
@@ -4820,21 +4835,22 @@
           "ignoreCustomScale": false
         }
       },
-      "inWorld": true,
-      "includeSmallAreas": false,
-      "enterTitle": false
-    },
-    "pathfinding": {
-      "feedbackMode": "GUI",
-      "position": {
-        "x": 94,
-        "y": 5,
-        "scale": 0.4999999,
-        "centerX": false,
-        "centerY": true,
-        "ignoreCustomScale": false
+      "showInWorld": true,
+      "enterTitle": false,
+      "pathfinding": {
+        "feedbackMode": "GUI",
+        "position": {
+          "x": 94,
+          "y": 5,
+          "scale": 0.4999999,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        },
+        "chatUpdateInterval": "PERFECT"
       },
-      "chatUpdateInterval": "PERFECT"
+      "allowInstantNavigation": true,
+      "includeSmallAreas": false
     },
     "hideArmor": {
       "mode": "OFF",
@@ -5370,6 +5386,14 @@
         "maxNodeDistance": 50,
         "showsStats": true,
         "useAsIslandArea": false
+      },
+      "chatProgressPosition": {
+        "x": 1,
+        "y": 160,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true,
+        "ignoreCustomScale": false
       }
     },
     "mobDebug": {
@@ -5397,6 +5421,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 113,
+  "lastVersion": 115,
   "lastMinecraftVersion": "1.21.8"
 }

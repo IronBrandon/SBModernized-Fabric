@@ -1,6 +1,6 @@
 {
     // The version of the config file. Do not change this unless you know what you are doing.
-    "rconfig:version": 0,
+    "rconfig:version": 1,
     // Valid Values: HEALTH, DEFENSE, MANA, NO_MANA, OVERFLOW_MANA, DRILL_FUEL, ABILITY, LOCATION, SKILL_XP, SKILL_XP_LITERAL, SKYBLOCK_XP, RIFT_TIME, ARMADILLO, CHARGES, ARMOR_STACK, CELLS_ALIGNMENT, SECRETS, PRESSURE
     "hiddenActionBarWidgets": [
         "SKYBLOCK_XP",
@@ -41,16 +41,32 @@
             // Valid Values: NORMAL, SKYBLOCK_LEVEL, ALPHABETICAL, FRIENDS
             "sorting": "NORMAL",
             // [Color Format: RGBA]
-            "backgroundColor": -1073741824
+            "backgroundColor": -1073741824,
+            // Range: 1 - 9
+            "minColumns": 3,
+            // Range: 1 - 9
+            "maxColumns": 5,
+            // Range: 1 - 30
+            "targetColumnSize": 20
         },
         "sack": {
             "enabled": false,
-            "background": false,
+            // Valid Values: TEXTURED, TRANSLUCENT, NO_BACKGROUND
+            "background": "TRANSLUCENT",
             "sackItems": []
+        },
+        "powerOrb": {
+            "enabled": false,
+            // Valid Values: TEXTURED, TRANSLUCENT, NO_BACKGROUND
+            "background": "TRANSLUCENT",
+            "spinningItem": true,
+            "nameAndRange": true,
+            "arrow": true
         },
         "trophyFish": {
             "enabled": false,
-            "background": false,
+            // Valid Values: TEXTURED, TRANSLUCENT, NO_BACKGROUND
+            "background": "TRANSLUCENT",
             "showNumbers": true,
             "showTotal": true,
             "hideUnlocked": false
@@ -112,7 +128,8 @@
         "commissions": {
             "enabled": false,
             "format": false,
-            "background": true
+            // Valid Values: TEXTURED, TRANSLUCENT, NO_BACKGROUND
+            "background": "TEXTURED"
         },
         "npc": {
             "enabled": false,
@@ -122,7 +139,8 @@
             "minimumDurationPerMessage": 0.75,
             // Type: Float
             "durationForActionMessage": 10.0,
-            "hideChatMessage": true
+            "hideChatMessage": true,
+            "hideSelectAnOptionMessage": false
         },
         "bossbar": {
             "removeWhenFull": false,
@@ -196,6 +214,14 @@
                 "x": -300,
                 // Type: Integer
                 "y": 10,
+                // Type: Float
+                "scale": 1.0
+            },
+            "powerOrb": {
+                // Type: Integer
+                "x": -200,
+                // Type: Integer
+                "y": 50,
                 // Type: Float
                 "scale": 1.0
             },
@@ -353,6 +379,23 @@
         "enableNotificationsWidget": true
     },
     "render": {
-        "showOwnTag": false
+        "showOwnTag": false,
+        "custom_damage": {
+            "enabled": false,
+            "shadow": true,
+            "combining": true,
+            // Range: 0 - 4
+            "combineThreshold": 2.0,
+            // Range: 1 - 3
+            "precision": 1,
+            // Type: Double
+            "timeout": 3.0,
+            // Type: Double
+            "fullTimeout": 10.0,
+            "droppingTags": true,
+            "fadingTags": true,
+            // Valid Values: NONE, PREFIX, SUFFIX, BOTH
+            "icons": "BOTH"
+        }
     }
 }

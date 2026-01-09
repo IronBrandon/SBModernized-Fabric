@@ -15,6 +15,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -46,22 +60,22 @@
         }
       },
       "Item Pickup": {
-        "relative_x": -76,
-        "relative_y": 0,
+        "relative_x": -10,
+        "relative_y": -64,
         "layer": "DEFAULT",
-        "parent": "hud_farming",
+        "parent": "screen",
         "parent_anchor": {
           "v": "BOTTOM",
           "h": "RIGHT"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "RIGHT"
         }
       },
       "hud_farming": {
-        "relative_x": -130,
-        "relative_y": 1,
+        "relative_x": -5,
+        "relative_y": 45,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
@@ -70,7 +84,7 @@
         },
         "this_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
         }
       },
       "hud_end": {
@@ -118,17 +132,17 @@
         }
       },
       "Item Pickup": {
-        "relative_x": 5,
-        "relative_y": 0,
+        "relative_x": -10,
+        "relative_y": -64,
         "layer": "DEFAULT",
-        "parent": "hud_slayer",
+        "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
+          "v": "BOTTOM",
           "h": "RIGHT"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "RIGHT"
         }
       },
       "hud_end": {
@@ -158,6 +172,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -191,6 +219,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -218,6 +260,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -251,6 +307,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -281,6 +351,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -5,
         "relative_y": 2,
@@ -308,6 +392,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -342,17 +440,17 @@
         }
       },
       "Item Pickup": {
-        "relative_x": -123,
-        "relative_y": -1,
+        "relative_x": -10,
+        "relative_y": -64,
         "layer": "DEFAULT",
         "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "RIGHT"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "RIGHT"
         }
       },
       "hud_end": {
@@ -382,6 +480,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -429,18 +541,32 @@
           "h": "RIGHT"
         }
       },
-      "Item Pickup": {
-        "relative_x": 5,
-        "relative_y": 0,
+      "hud_pickobulus": {
+        "relative_x": -110,
+        "relative_y": -11,
         "layer": "DEFAULT",
-        "parent": "commissions",
+        "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "RIGHT"
         }
       },
       "commissions": {
@@ -487,6 +613,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -514,6 +654,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -547,6 +701,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -577,6 +745,20 @@
           "h": "RIGHT"
         }
       },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
       "hud_end": {
         "relative_x": -7,
         "relative_y": 76,
@@ -604,6 +786,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -651,6 +847,20 @@
           "h": "RIGHT"
         }
       },
+      "pickaxe_ability": {
+        "relative_x": 274,
+        "relative_y": 120,
+        "layer": "HUD",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
       "hud_pickobulus": {
         "relative_x": -95,
         "relative_y": -20,
@@ -680,31 +890,31 @@
         }
       },
       "Item Pickup": {
-        "relative_x": 5,
-        "relative_y": 0,
+        "relative_x": -10,
+        "relative_y": -64,
         "layer": "DEFAULT",
-        "parent": "commissions",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
+      },
+      "commissions": {
+        "relative_x": -17,
+        "relative_y": 11,
+        "layer": "HUD",
+        "parent": "screen",
         "parent_anchor": {
           "v": "TOP",
           "h": "RIGHT"
         },
         "this_anchor": {
           "v": "TOP",
-          "h": "LEFT"
-        }
-      },
-      "commissions": {
-        "relative_x": 478,
-        "relative_y": 2,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "h": "RIGHT"
         }
       },
       "hud_end": {
@@ -736,6 +946,20 @@
           "v": "CENTER",
           "h": "LEFT"
         }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -56,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        }
       }
     },
     "kuudra": {
@@ -750,6 +974,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -780,6 +1018,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
@@ -839,6 +1091,20 @@
         "this_anchor": {
           "v": "TOP",
           "h": "LEFT"
+        }
+      },
+      "Item Pickup": {
+        "relative_x": -10,
+        "relative_y": -64,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "RIGHT"
         }
       },
       "hud_end": {
