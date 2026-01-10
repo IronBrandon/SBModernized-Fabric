@@ -12,13 +12,12 @@ Fabric 0.18.4
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.11.0
-  - SkyHanni 6.6.0
+  - SkyHanni 6.8.0
   - SkyCubed 1.8.0
 - Quality-of-Life
   - Chat Patches 8.0-a7
   - Essential 1.3.10.3 (_should auto-update_)
   - Dynamic Crosshair 9.8
-  - Better F3 15.0.0
   - Tooltip Scroll 1.5.1
   - Mouse Tweaks 2.28
   - Gamma Utils 2.3.6

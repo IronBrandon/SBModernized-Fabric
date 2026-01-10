@@ -32,21 +32,21 @@
         "LOBBY_CODE",
         "VISITING",
         "EMPTY_LINE2",
-        "MOTES",
         "SOWDUST",
         "COLD",
         "EMPTY_LINE3",
         "HEAT",
         "EVENTS",
+        "MOTES",
         "SOULFLOW",
-        "COOKIE",
         "POWER",
+        "COOKIE",
         "EMPTY_LINE4",
         "OBJECTIVE",
         "POWDER",
-        "MAYOR",
         "NORTH_STARS",
         "PARTY",
+        "MAYOR",
         "EXTRA"
       ],
       "display": {
@@ -606,7 +606,7 @@
     },
     "widenConfig": false,
     "titlePosition": {
-      "x": 214,
+      "x": 222,
       "y": 54,
       "scale": 0.79999995,
       "centerX": false,
@@ -758,15 +758,31 @@
       "progress": false,
       "overflow": {
         "cropMilestoneDisplay": false,
-        "bestCropTime": false,
         "inventoryStackSize": false,
         "inventoryTooltip": false,
         "discordRPC": false,
         "chat": false
       },
+      "showWithoutTool": false,
       "warnClose": false,
       "highestTimeFormat": "YEAR",
-      "bestShowMaxedNeeded": false,
+      "showMaxTier": false,
+      "customGoalCrops": [],
+      "customGoalConfig": {
+        "wheat": 46.0,
+        "carrot": 46.0,
+        "potato": 46.0,
+        "wart": 46.0,
+        "pumpkin": 46.0,
+        "melon": 46.0,
+        "cocoa": 46.0,
+        "cane": 46.0,
+        "cactus": 46.0,
+        "mushroom": 46.0,
+        "moonflower": 46.0,
+        "sunflower": 46.0,
+        "rose": 46.0
+      },
       "text": [
         "TITLE",
         "MILESTONE_TIER",
@@ -980,7 +996,6 @@
       "bountiful": true,
       "mooshroom": true,
       "armor": true,
-      "dicer": true,
       "hideTitle": false,
       "pos": {
         "x": -330,
@@ -1226,6 +1241,8 @@
         "enabled": false,
         "hideChat": true,
         "timeDisplayed": 30,
+        "includeBits": false,
+        "coinsPerBit": 700,
         "position": {
           "x": -79,
           "y": -139,
@@ -1349,7 +1366,10 @@
       }
     },
     "sensitivityReducer": {
-      "mode": "OFF",
+      "enabled": false,
+      "mode": [
+        "TOOL"
+      ],
       "keybind": 78,
       "reducingFactor": 15.0,
       "showGui": true,
@@ -1426,6 +1446,28 @@
       "useMiddleClick": true,
       "blockAccidentalClosing": true,
       "hideTooltips": true
+    },
+    "cropFeverTracker": {
+      "enabled": true,
+      "onlyWithTool": true,
+      "onlyDuringFever": true,
+      "text": [
+        "TITLE",
+        "RNG_DROPS",
+        "SPACER_2",
+        "ITEM_DROPS",
+        "FEVER_AMOUNT",
+        "TOTAL_BLOCKS",
+        "TOTAL_PROFIT"
+      ],
+      "position": {
+        "x": 80,
+        "y": 20,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true,
+        "ignoreCustomScale": false
+      }
     },
     "plotPrice": true,
     "burrowingSporesNotificationType": "TITLE",
@@ -1559,12 +1601,12 @@
   },
   "rift": {
     "timer": {
-      "enabled": true,
+      "enabled": false,
       "maxTime": true,
       "percentage": true,
       "timerPosition": {
-        "x": 10,
-        "y": 10,
+        "x": 97,
+        "y": 5,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -1812,8 +1854,8 @@
         "enabled": true,
         "formatType": "SHORT",
         "position": {
-          "x": 126,
-          "y": 156,
+          "x": 31,
+          "y": 161,
           "scale": 1.0,
           "centerX": false,
           "centerY": true,
@@ -3328,7 +3370,6 @@
         "useAdvancedPoorColor": false,
         "advancedPoorColor": "0:1:255:255:85"
       },
-      "commaFormat": "COPY_ENCHANT",
       "hideVanillaEnchants": true,
       "hideEnchantDescriptions": false,
       "stackingEnchantProgress": true
@@ -3414,7 +3455,7 @@
           "ignoreCustomScale": false
         }
       },
-      "depletedBonzosMasks": false
+      "depletedBonzosMasks": true
     },
     "customWardrobe": {
       "enabled": false,
@@ -4827,8 +4868,8 @@
         "includeCurrentArea": false,
         "color": "0:245:85:255:85",
         "position": {
-          "x": 7,
-          "y": 7,
+          "x": 4,
+          "y": 149,
           "scale": 0.79999995,
           "centerX": false,
           "centerY": true,
@@ -5421,6 +5462,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 115,
+  "lastVersion": 116,
   "lastMinecraftVersion": "1.21.8"
 }
