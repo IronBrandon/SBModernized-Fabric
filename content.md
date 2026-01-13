@@ -76,7 +76,7 @@ Fabric 0.18.4
 - Konkrete 1.9.12
 - LibJF 3.19.2
 - Melody 1.0.12
-- Mod Menu 15.0.0
+- Mod Menu 15.0.1
 - Text Placeholder API 2.7.2
 - YetAnotherConfigLib 3.8.2
 - Searchables 1.0.2

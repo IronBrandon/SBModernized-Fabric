@@ -9,6 +9,7 @@ key_key.gammautils.gammaToggle:key.keyboard.unknown:
 key_key.gammautils.nightVisionToggle:key.keyboard.unknown:
 key_key.tooltipscroll.moveUp:key.keyboard.page.up:
 key_key.tooltipscroll.moveDown:key.keyboard.page.down:
+key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown:
 key_key.skyblocker.slottext:key.keyboard.unknown:
 key_key.skyblocker.toggleA:key.keyboard.left.alt:
 key_key.skyblocker.defaultTgl:key.keyboard.unknown:

@@ -73,9 +73,9 @@
           "h": "RIGHT"
         }
       },
-      "hud_farming": {
-        "relative_x": -5,
-        "relative_y": 45,
+      "hud_end": {
+        "relative_x": -7,
+        "relative_y": 76,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
@@ -87,9 +87,9 @@
           "h": "RIGHT"
         }
       },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
+      "hud_farming": {
+        "relative_x": -5,
+        "relative_y": 45,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
@@ -541,6 +541,20 @@
           "h": "RIGHT"
         }
       },
+      "pickaxe_ability": {
+        "relative_x": 398,
+        "relative_y": 16,
+        "layer": "SECONDARY_TAB",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
       "hud_pickobulus": {
         "relative_x": -110,
         "relative_y": -11,
@@ -861,20 +875,6 @@
           "h": "LEFT"
         }
       },
-      "hud_pickobulus": {
-        "relative_x": -95,
-        "relative_y": -20,
-        "layer": "DEFAULT",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "BOTTOM",
-          "h": "CENTER"
-        },
-        "this_anchor": {
-          "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
       "hud_crystals": {
         "relative_x": -9,
         "relative_y": 8,
@@ -886,6 +886,20 @@
         },
         "this_anchor": {
           "v": "TOP",
+          "h": "RIGHT"
+        }
+      },
+      "hud_pickobulus": {
+        "relative_x": -95,
+        "relative_y": -20,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
           "h": "RIGHT"
         }
       },
