@@ -28,8 +28,8 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **BadOptimizations** by Thosea
 - **Better Clouds** by Qendolin
 - **Better Third Person** by Socolio
-- **BetterF3** by cominixo & TreyRuffy
 - **Chat Heads** by dzwdz & Fourmisain
+- **Chat Patches** by OBro1961 _and contributors_
 - **Config Manager** by TheBossMagnus
 - **Continuity** by PepperCode1
 - **Controlling** by Jaredlll08
@@ -44,7 +44,6 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **Essential** by ModCore Inc
 - **FancyMenu** by Keksuccino
 - **FerriteCore** by malte0811
-- **Fusion (Connected Textures)** by SuperMartijn642
 - **Gamma Utils** by Sjouwer _and contributors_
 - **ImmediatelyFast** by RK_01
 - **Iris**
@@ -52,7 +51,6 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
   - IMS212
   - Justsnoopy30
   - FoundationGames
-- **Krypton** by tuxed
 - **Lithium** by JellySquid & 2No2Name
 - **Mod Menu**
   - Prospector
@@ -60,8 +58,6 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
   - TerraformersMC
   - _and contributors_
 - **Model Gap Fix** by MehVahdjukaar
-- **More Chat History** by JackFred
-- **More Culling** by PR0CESS & 1Foxy2
 - **Mouse Tweaks** by YaLTeR (_Ivan Molodetskikh_)
 - **Packet Fixer** by TonimatesDEV
 - **Particle Interactions** by Enchanted_Games
@@ -110,11 +106,12 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 - **Connected Paths** & **FBG for SGF** by Jacosvaldo
 - **Simple Grass Flowers** by 2DWisp
 - **Particles Remastered!** by nela1
-- **3D Crops Revamped** by vexcenot
 - **FurfSky Reborn** by Tylerrrr
 - **Detailed Animations** by Cymock
 - **Fresh Animations** by FreshLX
 - **No Enchant Glint** by TYPOWYSEB4
+- **Arkudii's Detailed Hypixel** by Arkudii
+- **Sophie's Enchant Books** by Bentcheesee
 
 ### Shader Pack
 

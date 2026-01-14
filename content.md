@@ -14,7 +14,7 @@ Fabric 0.18.4
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.11.0
-  - SkyHanni 6.8.0
+  - SkyHanni 6.9.0
   - SkyCubed 1.8.0
 - Quality-of-Life
   - Chat Patches 8.0-a7
@@ -50,9 +50,7 @@ Fabric 0.18.4
 - Entity Culling 1.9.4
 - FerriteCore 8.0.0
 - ImmediatelyFast 1.12.4
-- Krypton 0.2.9
 - Lithium 0.18.1
-- More Culling 1.4.0
 - Packet Fixer 3.3.1
 - Reese's Sodium Options 1.8.4
 - Sodium 0.7.3
@@ -86,20 +84,23 @@ Fabric 0.18.4
 
 ## Resource-Packs
 
-- (Bee's) Serified Font 1.2
-- Connected Paths 1.4.1
-- Crop & Foliage Variations 2.0
-- Dark Skyblock 0.2.1 (_off by default_)
-- Detailed Animations 1.15
-- Fast Better Grass 1.21.11
-- Fast Better Grass For Simple Grass Flowers 1.0
-- Fresh Animations 1.10.3
-- Furfsky Reborn 1.9.2+mc1.21
-- Leaves Plus 1.0
+_In-Game Order_
+- Skyblock Packs
+  - Skyblock Dark UI 1.8
+  - Arkudii's Detailed Skyblock 2.7
+  - Sophie's Enchant Books
+  - Furfsky Reborn 1.9.2+mc1.21
 - No Enchant Glint
+- Serified Font 1.2
 - Particles Remasterd! 2.0
+- Detailed Animations 1.15
+- Fresh Animations 1.10.3
+- Leaves Plus 1.0
+- Crop & Foliage Variations 2.0
+- Fast Better Grass For Simple Grass Flowers 1.0
 - Simple Grass Flowers 1.9.6
-- Skyblock Dark UI 1.8
+- Fast Better Grass 1.21.11
+- Connected Paths 1.4.1
 
 > additional resource-packs are added by mods
 

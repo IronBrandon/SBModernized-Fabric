@@ -56,11 +56,11 @@ Try to keep the resource packs in their default order.
 
 **Resolution**\
 Because SBModernized was made for 1920x1080 monitors and optimized for my mid-level PC, other resolutions and PCs may need many changes to the HUD and graphics settings.\
-There will be screenshots of different areas of the game with notes on which parts of the HUD are from what mods. For performance, you should be getting 60-80 FPS in the Skyblock Hub while moving around and 80+ FPS means you're likely good for all other areas, so use that area as a good place for testing your graphics especially if you plan to regularly use shaders.
+There will be screenshots of different areas of the game with notes on which parts of the HUD are from what mods.
 
 **Shaders**\
 They work with a good PC; not high-end level but better than most.\
-If the shaders don't run well for you, I recommend primarily playing with them off, then toggling the shaders with K when you want some nicer scenery while Fishing or Foraging.  
+If the shaders don't run well for you, I recommend primarily playing with them off, then toggling the shaders with K when you want some nicer scenery while Fishing, Foraging, or Hunting.
 
 **Clouds**\
 For optimization, clouds are disabled on all the default shaders and we instead use Better Clouds, which still look good without being taxing on performance.
@@ -70,11 +70,9 @@ One included mod, Sound Physics, will not be for everyone. Set Friendly Mob and 
 
 ## User-Interface
 
-**F3 Menu**: Go to `Mods > BetterF3`.
+**SkyHanni**: Use key Backslash in-game to modify some of the hud. This will likely need lots of editing if you use a resolution other than 1920x1080. It's UI includes the Custom Scoreboard, Sacks value display, location pathing, and more.
 
-**SkyHanni HUD**: Use key Backslash in-game to modify some of the hud.
-
-**SkyBlocker Widget**: Use command `/widget` to modify SkyBlocker's Tab widgets and some of its hud.
+**SkyBlocker**: Use command `/widget` to modify SkyBlocker's Tablist widgets and some of its hud. Also `/skyblocker` for several other options, including `/skyblocker bars` for customizing the bars above the hotbar.
 
 **SkyCubed**: Use command `/skycubed` to access SkyCubed's settings. You can also drag its map and info display (_box with current time_) by opening chat.
 
@@ -88,7 +86,8 @@ Below are some notable keybinds (_all command binds are in SkyBlocker).
 
 - **M**: Open Map (_Skycubed_)
 - **Left Alt** (hold): Show tab secondary view (_Skyblocker_)
-- **C**: Player Equipment `/equipment`
+- **H**: Bags Menu `/bags`
+- **C**: Equipment Menu `/equipment`
 - **B**: Booster Cookie Menu `/boostercookie`
 - **U**: Wardrobe Menu `/wardrobe`
 - **I**: Storage Menu `/storage`
