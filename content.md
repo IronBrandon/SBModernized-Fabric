@@ -1,5 +1,7 @@
 # SBModernized
 
+The mods in their original forms cannot be included here. To install through source instead of the `.mrpack` files, download each individual mod and resource-pack to support the original creators.
+
 ## Game
 
 Minecraft: Java Edition 1.21.8\
@@ -76,6 +78,7 @@ Fabric 0.18.4
 - Konkrete 1.9.12
 - LibJF 3.19.2
 - Melody 1.0.12
+- MidnightLib 1.9.2
 - Mod Menu 15.0.1
 - Text Placeholder API 2.7.2
 - YetAnotherConfigLib 3.8.2
