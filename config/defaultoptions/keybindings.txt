@@ -5,7 +5,7 @@ key_key.saveToolbarActivator:key.keyboard.unknown:
 key_key.loadToolbarActivator:key.keyboard.unknown:
 key_key.advancements:key.keyboard.unknown:
 key_skycubed.key.map:key.keyboard.m:
-key_key.gammautils.gammaToggle:key.keyboard.unknown:
+key_key.gammautils.gammaToggle:key.keyboard.f:
 key_key.gammautils.nightVisionToggle:key.keyboard.unknown:
 key_key.tooltipscroll.moveUp:key.keyboard.page.up:
 key_key.tooltipscroll.moveDown:key.keyboard.page.down:

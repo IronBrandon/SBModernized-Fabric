@@ -88,7 +88,7 @@ _In-Game Order_
 - Skyblock Packs
   - Skyblock Dark UI 1.8
   - Arkudii's Detailed Skyblock 2.7
-  - Sophie's Enchant Books
+  - Sophie's Enchant Books 1.5
   - Furfsky Reborn 1.9.2+mc1.21
 - No Enchant Glint
 - Serified Font 1.2
