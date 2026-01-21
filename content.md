@@ -58,7 +58,7 @@ Fabric 0.18.4
 
 ### Modpack-Specific
 
-- Config Manager 1.1.0
+- Config Manager 1.1.1
 - Default Options 21.8.5
 - FancyMenu 3.7.1
 - Resource Pack Overrides 21.8.0
@@ -95,7 +95,7 @@ _In-Game Order_
 - Particles Remasterd! 2.0
 - Detailed Animations 1.15
 - Fresh Animations 1.10.3
-- Leaves Plus 1.0
+- Motschen's Better Leaves 9.4
 - Crop & Foliage Variations 2.0
 - Fast Better Grass For Simple Grass Flowers 1.0
 - Simple Grass Flowers 1.9.6
