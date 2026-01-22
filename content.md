@@ -14,18 +14,18 @@ Fabric 0.18.4
 - Skyblock
   - Firmament 42.0.0
   - Skyblocker 5.11.0
-  - SkyHanni 6.9.0
-  - SkyCubed 1.8.0
+  - SkyCubed 1.8.1
+  - SkyHanni 6.12.0
 - Quality-of-Life
   - Chat Patches 8.0-a7
-  - Essential 1.3.10.3 (_should auto-update_)
-  - Dynamic Crosshair 9.8
-  - Tooltip Scroll 1.5.1
-  - Mouse Tweaks 2.28
-  - Gamma Utils 2.3.6
-  - Roughly Enough Items 20.0.811
   - Controlling 26.0.3
+  - Dynamic Crosshair 9.8
+  - Essential 1.3.10.4
+  - Gamma Utils 2.3.6
+  - Mouse Tweaks 2.28
   - Respackopts 4.13.7
+  - Roughly Enough Items 20.0.811
+  - Tooltip Scroll 1.5.1
 
 ### Visuals & Audio
 
@@ -34,12 +34,13 @@ Fabric 0.18.4
 - Better Third Person 1.9.0
 - Chat Heads 0.14.2
 - Continuity 3.0.1-beta.1
+- Cool Rain 1.3.1
 - Cubes Without Borders 3.0.0
 - Iris Shaders 1.9.6
 - Model Gap Fix 1.12
-- Particle Interactions 0.8.5
 - Particle Rain 4-beta.5
-- Puzzle 2.2.1
+- Particular Reforged 1.3.1
+- Puzzle 2.3.0
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.10
 
@@ -47,7 +48,7 @@ Fabric 0.18.4
 
 - BadOptimizations 2.4.1
 - Dynamic FPS 3.11.3
-- Entity Culling 1.9.4
+- Entity Culling 1.9.5
 - FerriteCore 8.0.0
 - ImmediatelyFast 1.12.4
 - Lithium 0.18.1
@@ -78,9 +79,9 @@ Fabric 0.18.4
 - Melody 1.0.12
 - MidnightLib 1.9.2
 - Mod Menu 15.0.1
+- Searchables 1.0.2
 - Text Placeholder API 2.7.2
 - YetAnotherConfigLib 3.8.2
-- Searchables 1.0.2
 
 ## Resource-Packs
 
@@ -94,6 +95,8 @@ _In-Game Order_
 - Serified Font 1.2
 - Particles Remasterd! 2.0
 - Detailed Animations 1.15
+- Fresh Animations: Emissive 1.4.1
+- Fresh Animations: Spiders 2.1.0
 - Fresh Animations 1.10.3
 - Motschen's Better Leaves 9.4
 - Crop & Foliage Variations 2.0
@@ -108,3 +111,5 @@ _In-Game Order_
 
 - Photon Shaders 1.2a
 - Complementary 5.6.1
+
+_**Photon** is more optimized, **Complementary** has better compatibility_
