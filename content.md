@@ -32,7 +32,6 @@ Fabric 0.18.4
 - AmbientSounds 6.3.1
 - Better Clouds 1.11.1
 - Chat Heads 1.2.0
-- Continuity 3.0.1-b2
 - Cool Rain 1.3.1
 - Cubes Without Borders 3.0.0
 - Iris Shaders 1.9.7
@@ -91,8 +90,9 @@ _In-Game Order_
   - Arkudii's Detailed Skyblock 2.9
   - Sophie's Enchant Books 1.5
   - Furfsky Reborn 1.9.2+mc1.21
-- No Enchant Glint
 - Serified Font 1.2
+- No Enchant Glint
+- Dyes Without A Plate 1.0
 - Particles Remasterd! 2.0
 - Detailed Animations 1.15
 - Fresh Animations: Emissive 1.4.1

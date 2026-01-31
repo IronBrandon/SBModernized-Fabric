@@ -1,4 +1,4 @@
-# SBModernized
+# <img src="logo.png" alt="SBM Logo" style="width:31px; height: auto;"/> SBModernized
 
 ![Featured Image in SBModernized][FEATURED_IMAGE]
 
@@ -9,7 +9,30 @@
 A modpack designed specifically for Hypixel SkyBlock on modern versions.\
 Goodbye, 1.8.9, you will be missed...
 
-The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. At the moment, SBModernized is just a set of several great mods with preset default configs. However, to get this modpack into a _finished_ state I will be adding custom features to make customization quick and easy, but that's coming in the future.
+The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. I will include a list below of all mods and packs that are purely visual you may disable, from most potential performance impact to least (_not everyone has a good PC_).
+
+<details><summary>Purely Cosmetic Mods</summary>
+_Note: Iris Shaders is not included as the shaders are disabled by default in-game_\
+_brackets indicate dependencies other mods don't require_
+
+High Performance Impact
+1. Sound Physics Remastered
+2. Particular Reforged [Foreg Config API Port]
+3. Particle Rain
+
+Partial Performance Impact
+1. Cool Rain
+2. Visuality
+3. Essential
+4. SkyCubed
+
+Miniscular Performance Impact
+1. AmbientSounds
+2. Better Clouds
+3. Chat Heads
+4. Model Gap Fix
+5. Mod Menu
+</details>
 
 - - -
 
@@ -26,15 +49,17 @@ This modpack is intended to be out-of-box play, but here I'll have helpful tips 
 
 ## Setup
 
-1. Like any other Modrinth modpack, simply open this modpack page in the Modrinth App and install your desired version.
-2. Before starting the game, open the Settings (_gear icon_), click Java and Memory, and set a custom amount of allocated memory, or use the recommended settings below. Be sure to not set it too high, this can lead to performance issues.
+1. Open this page in the Modrinth App or Prism Launcher and install your desired version of the pack.
+2. Set allocated memory to _at least_ 2.5 GB, or use the recommended settings. Be sure to not set it too high and that third-party applications aren't taking too much of your memory (_common culprits are browsers and Discord_).
+   - _Modrinth App_: `Gear Icon > Java and Memory > Memory allocated`
+   - _Prism Launcher_: `Edit > Settings > Java > Memory`
    - 2560 MB Minimum Allocated
    - **6-8 GB RAM**: 3 GB Allocated
    - **12-16 GB RAM**: 6 GB Allocated
    - **24-32 GB RAM**: 8 GB Allocated
 3. You can also set a custom window size or set fullscreen if desired, then start the game.
-4. Also, importantly, you should go to `Options > Resource Packs` then click `Done` to be sure all the resource packs load properly.
-5. You can change some settings before starting, but to change certain settings involving UI for mods like BetterF3, Skyblocker, SkyHanni, etc. you must join Hypixel SkyBlock.
+4. Before joining Hypixel, you should go to `Options > Resource Packs`, optionally enabled/disable any you like or dislike, then click `Done` to be sure all the resource packs load properly.
+5. You can change some settings before starting, but to change certain settings involving UI for mods like Skyblocker, SkyHanni, etc. you must join Hypixel SkyBlock.
 
 Now you should be ready to just play! If you are playing in a resolution other than 1920x1080 you can change the UI as you go, referring to the below tips if needed.
 

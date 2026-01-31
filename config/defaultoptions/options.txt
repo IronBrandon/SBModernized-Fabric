@@ -1,6 +1,7 @@
 version:4556
 fov:0.375
 screenEffectScale:1.0
+cloudRange:48
 autoJump:false
 discrete_mouse_scroll:false
 realmsNotifications:false

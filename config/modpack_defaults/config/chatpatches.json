@@ -2,5 +2,6 @@
   "timeSystemMessages": false,
   "compactChat": true,
   "compactDistance": 1,
+  "chatMaxMessages": 4465,
   "dynamicChatShift": false
 }
