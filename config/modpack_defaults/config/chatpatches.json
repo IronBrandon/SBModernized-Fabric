@@ -1,4 +1,6 @@
 {
   "timeSystemMessages": false,
+  "compactChat": true,
+  "compactDistance": 1,
   "dynamicChatShift": false
 }

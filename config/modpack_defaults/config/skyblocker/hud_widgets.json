@@ -15,6 +15,20 @@
           "h": "RIGHT"
         }
       },
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        }
+      },
       "Item Pickup": {
         "relative_x": -10,
         "relative_y": -64,
@@ -45,20 +59,6 @@
       }
     },
     "garden": {
-      "hud_slayer": {
-        "relative_x": -7,
-        "relative_y": 6,
-        "layer": "DEFAULT",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
-      },
       "Item Pickup": {
         "relative_x": -10,
         "relative_y": -64,
@@ -73,36 +73,36 @@
           "h": "RIGHT"
         }
       },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
-      },
       "hud_farming": {
-        "relative_x": -5,
-        "relative_y": 45,
+        "relative_x": -6,
+        "relative_y": -76,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
+          "v": "CENTER",
           "h": "RIGHT"
         },
         "this_anchor": {
-          "v": "TOP",
+          "v": "CENTER",
           "h": "RIGHT"
         }
       }
     },
     "hub": {
+      "skills": {
+        "relative_x": 0,
+        "relative_y": 1,
+        "layer": "SECONDARY_TAB",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "CENTER",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "CENTER"
+        }
+      },
       "hud_slayer": {
         "relative_x": -7,
         "relative_y": 6,
@@ -115,6 +115,20 @@
         "this_anchor": {
           "v": "TOP",
           "h": "RIGHT"
+        }
+      },
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
         }
       },
       "sweepDetails": {
@@ -145,34 +159,34 @@
           "h": "RIGHT"
         }
       },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
+      "election": {
+        "relative_x": 0,
+        "relative_y": -11,
+        "layer": "SECONDARY_TAB",
         "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
+          "v": "CENTER",
+          "h": "CENTER"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
+          "v": "BOTTOM",
+          "h": "CENTER"
         }
       }
     },
     "farming_1": {
-      "hud_slayer": {
-        "relative_x": -7,
-        "relative_y": 6,
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
         "layer": "DEFAULT",
         "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
+          "v": "BOTTOM",
+          "h": "CENTER"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
+          "v": "BOTTOM",
+          "h": "CENTER"
         }
       },
       "Item Pickup": {
@@ -186,25 +200,25 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
     },
     "foraging_1": {
+      "pet": {
+        "relative_x": 265,
+        "relative_y": 41,
+        "layer": "SECONDARY_TAB",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
       "hud_slayer": {
         "relative_x": -7,
         "relative_y": 6,
@@ -219,6 +233,34 @@
           "h": "RIGHT"
         }
       },
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        }
+      },
+      "sweepDetails": {
+        "relative_x": 99,
+        "relative_y": 10,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        },
+        "this_anchor": {
+          "v": "TOP",
+          "h": "LEFT"
+        }
+      },
       "Item Pickup": {
         "relative_x": -10,
         "relative_y": -64,
@@ -230,20 +272,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -274,20 +302,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -395,6 +409,20 @@
           "h": "RIGHT"
         }
       },
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        }
+      },
       "Item Pickup": {
         "relative_x": -10,
         "relative_y": -64,
@@ -406,20 +434,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -452,20 +466,6 @@
           "v": "BOTTOM",
           "h": "RIGHT"
         }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
       }
     },
     "mining_2": {
@@ -494,20 +494,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -596,20 +582,6 @@
           "v": "TOP",
           "h": "RIGHT"
         }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
       }
     },
     "fishing_1": {
@@ -640,20 +612,6 @@
           "v": "BOTTOM",
           "h": "RIGHT"
         }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
       }
     },
     "dungeon_hub": {
@@ -671,6 +629,20 @@
           "h": "RIGHT"
         }
       },
+      "Lasso HUD": {
+        "relative_x": 0,
+        "relative_y": -69,
+        "layer": "DEFAULT",
+        "parent": "screen",
+        "parent_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        },
+        "this_anchor": {
+          "v": "BOTTOM",
+          "h": "CENTER"
+        }
+      },
       "Item Pickup": {
         "relative_x": -10,
         "relative_y": -64,
@@ -682,20 +654,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -728,20 +686,6 @@
           "v": "BOTTOM",
           "h": "RIGHT"
         }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
       }
     },
     "rift": {
@@ -772,20 +716,6 @@
           "v": "BOTTOM",
           "h": "RIGHT"
         }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
       }
     },
     "dark_auction": {
@@ -814,20 +744,6 @@
         },
         "this_anchor": {
           "v": "BOTTOM",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
           "h": "RIGHT"
         }
       }
@@ -920,20 +836,6 @@
       "commissions": {
         "relative_x": -17,
         "relative_y": 11,
-        "layer": "HUD",
-        "parent": "screen",
-        "parent_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        },
-        "this_anchor": {
-          "v": "TOP",
-          "h": "RIGHT"
-        }
-      },
-      "hud_end": {
-        "relative_x": -7,
-        "relative_y": 76,
         "layer": "HUD",
         "parent": "screen",
         "parent_anchor": {
@@ -1066,17 +968,17 @@
     },
     "foraging_2": {
       "hud_treeprogress": {
-        "relative_x": 37,
-        "relative_y": 20,
+        "relative_x": 0,
+        "relative_y": 68,
         "layer": "DEFAULT",
         "parent": "screen",
         "parent_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "CENTER"
         },
         "this_anchor": {
           "v": "TOP",
-          "h": "LEFT"
+          "h": "CENTER"
         }
       },
       "hud_slayer": {
@@ -1094,17 +996,17 @@
         }
       },
       "Lasso HUD": {
-        "relative_x": 9,
-        "relative_y": 96,
+        "relative_x": 0,
+        "relative_y": -69,
         "layer": "DEFAULT",
         "parent": "screen",
         "parent_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "CENTER"
         },
         "this_anchor": {
-          "v": "TOP",
-          "h": "LEFT"
+          "v": "BOTTOM",
+          "h": "CENTER"
         }
       },
       "Item Pickup": {

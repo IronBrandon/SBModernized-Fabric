@@ -13,20 +13,21 @@
     "/pd": "/p disband"
   },
   "commandArgs": {
-    "/v": "/visit",
     "/m": "/msg",
-    "/pa": "/p accept"
+    "/pa": "/p accept",
+    "/v": "/visit"
   },
   "keyBindings": {
-    "key.keyboard.p": "/pets",
-    "key.keyboard.i": "/storage",
+    "key.keyboard.v": "/sbmenu",
     "key.keyboard.keypad.0": "/warp",
-    "key.keyboard.u": "/wardrobe",
-    "key.keyboard.b": "/boostercookie",
-    "key.keyboard.h": "/bags",
     "key.keyboard.c": "/equipment",
+    "key.keyboard.u": "/wardrobe",
+    "key.keyboard.i": "/storage",
+    "key.keyboard.g": "/bags",
+    "key.keyboard.b": "/boostercookie",
+    "key.keyboard.h": "/huntingbox",
     "key.keyboard.keypad.decimal": "/hub",
-    "key.keyboard.keypad.2": "/plottp barn",
-    "key.keyboard.keypad.1": "/garden"
+    "key.keyboard.semicolon": "/shmouselock",
+    "key.keyboard.p": "/pets"
   }
 }

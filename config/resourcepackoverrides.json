@@ -4,8 +4,6 @@
   "default_packs": [
     "vanilla",
     "fabric",
-    "continuity:glass_pane_culling_fix",
-    "file/Connected Paths v.1.4.1 - 1.21.8-.zip",
     "file/Fast Better Grass.zip",
     "file/Simple Grass Flowers v1.9.6.zip",
     "file/FBGFSGF v1.0.zip",
@@ -13,14 +11,14 @@
     "file/Better-Leaves-9.4.zip",
     "file/FreshAnimations_v1.10.3.zip",
     "file/FA+Emissive-v1.4.1.zip",
-    "file/DetailedAnimationsReworked - V1.15 PATCH.zip",
+    "file/DetailedAnimationsReworked -1.21.10 - 1.21.11 v15.zip",
     "file/§aFurf§bSky §6Reborn §f§lFULL§r §71.21.8§8.zip",
-    "file/§6No Enchant Glint 1.21.8.zip",
+    "file/§6No Enchant Glint 1.21.9.zip",
     "file/Particles Remastered! (2.0v).zip",
     "file/Sophie's Enchant Books V1.5.zip",
     "file/Arkudii's Detailed Hypixel SB.zip",
     "file/Serified Font v1.2.zip",
-    "file/Skyblock Dark UI 1.8 for 1.21.5+.zip"
+    "file/Skyblock Dark UI 1.9 for 1.21.10.zip"
   ],
   "default_overrides": {
     "force_compatible": true

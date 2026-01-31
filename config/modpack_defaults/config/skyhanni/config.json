@@ -29,29 +29,33 @@
     "customScoreboard": {
       "enabled": true,
       "scoreboardEntries": [
-        "LOBBY_CODE",
+        "EMPTY_LINE",
+        "EMPTY_LINE13",
+        "EMPTY_LINE6",
         "VISITING",
-        "EMPTY_LINE2",
         "SOWDUST",
+        "LOBBY_CODE",
         "COLD",
+        "EMPTY_LINE2",
+        "COPPER",
+        "COOKIE",
+        "OBJECTIVE",
+        "POWER",
+        "POWDER",
         "EMPTY_LINE3",
-        "HEAT",
         "EVENTS",
         "MOTES",
+        "HEAT",
         "SOULFLOW",
-        "POWER",
-        "COOKIE",
-        "EMPTY_LINE4",
-        "OBJECTIVE",
-        "POWDER",
-        "NORTH_STARS",
         "PARTY",
+        "NORTH_STARS",
         "MAYOR",
+        "EMPTY_LINE4",
         "EXTRA"
       ],
       "display": {
         "alignment": {
-          "horizontalAlignment": "DONT_ALIGN",
+          "horizontalAlignment": "LEFT",
           "verticalAlignment": "DONT_ALIGN",
           "margin": 0
         },
@@ -167,9 +171,9 @@
       },
       "unknownLinesWarning": true,
       "position": {
-        "x": 2,
-        "y": 94,
-        "scale": 0.79999995,
+        "x": 0,
+        "y": 93,
+        "scale": 0.6999999,
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
@@ -606,8 +610,8 @@
     },
     "widenConfig": false,
     "titlePosition": {
-      "x": 222,
-      "y": 54,
+      "x": 212,
+      "y": 53,
       "scale": 0.79999995,
       "centerX": false,
       "centerY": true,
@@ -659,8 +663,8 @@
       "shoppingList": {
         "enabled": true,
         "position": {
-          "x": 95,
-          "y": 3,
+          "x": 11,
+          "y": 45,
           "scale": 0.6999999,
           "centerX": false,
           "centerY": true,
@@ -747,6 +751,146 @@
       "acceptHotkey": -1,
       "highlightVisitors": false,
       "blockInteracting": "DONT"
+    },
+    "eliteFarmersLeaderboards": {
+      "enabled": true,
+      "display": [],
+      "displayPositions": [
+        {
+          "x": -296,
+          "y": 35,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        }
+      ],
+      "farmingWeightLeaderboard": {
+        "display": {
+          "overtakeETA": false,
+          "overtakeETAAlways": true,
+          "ignoreLow": false,
+          "text": [
+            "WEIGHT_POSITION",
+            "OVERTAKE"
+          ],
+          "leaderboard": true,
+          "showOutsideGarden": false
+        },
+        "rankGoals": {
+          "rankGoal": "10000",
+          "monthlyRankGoal": "10000",
+          "useRankGoal": true
+        },
+        "showLbChange": true,
+        "offlineLbChange": false,
+        "gamemode": "ALL"
+      },
+      "cropCollectionLeaderboard": {
+        "display": {
+          "overtakeETA": false,
+          "overtakeETAAlways": true,
+          "hideWhenNotFarming": true,
+          "text": [
+            "WEIGHT_POSITION",
+            "OVERTAKE"
+          ],
+          "leaderboard": true,
+          "showOutsideGarden": false
+        },
+        "rankGoals": {
+          "rankGoalTypes": [],
+          "rankGoalsConfig": {
+            "wheat": "10000",
+            "carrot": "10000",
+            "potato": "10000",
+            "wart": "10000",
+            "pumpkin": "10000",
+            "melon": "10000",
+            "cocoa": "10000",
+            "cane": "10000",
+            "cactus": "10000",
+            "mushroom": "10000",
+            "sunflower": "10000",
+            "moonflower": "10000",
+            "rose": "10000"
+          },
+          "monthlyRankGoalsConfig": {
+            "wheat": "10000",
+            "carrot": "10000",
+            "potato": "10000",
+            "wart": "10000",
+            "pumpkin": "10000",
+            "melon": "10000",
+            "cocoa": "10000",
+            "cane": "10000",
+            "cactus": "10000",
+            "mushroom": "10000",
+            "sunflower": "10000",
+            "moonflower": "10000",
+            "rose": "10000"
+          },
+          "useRankGoal": true
+        },
+        "showLbChange": true,
+        "offlineLbChange": false,
+        "gamemode": "ALL"
+      },
+      "pestKillsLeaderboard": {
+        "display": {
+          "hideWhenInactive": true,
+          "timeDisplayed": 30,
+          "text": [
+            "WEIGHT_POSITION",
+            "OVERTAKE"
+          ],
+          "leaderboard": true,
+          "showOutsideGarden": false
+        },
+        "rankGoals": {
+          "rankGoalTypes": [],
+          "rankGoalsConfig": {
+            "allPests": "10000",
+            "fieldMouse": "10000",
+            "fly": "10000",
+            "cricket": "10000",
+            "locust": "10000",
+            "beetle": "10000",
+            "rat": "10000",
+            "earthworm": "10000",
+            "moth": "10000",
+            "mosquito": "10000",
+            "mite": "10000",
+            "slug": "10000",
+            "dragonfly": "10000",
+            "firefly": "10000",
+            "mantis": "10000"
+          },
+          "monthlyRankGoalsConfig": {
+            "allPests": "10000"
+          },
+          "useRankGoal": true
+        },
+        "showLbChange": true,
+        "offlineLbChange": false,
+        "gamemode": "ALL"
+      }
     },
     "number": {
       "cropMilestone": true,
@@ -959,26 +1103,6 @@
         "ignoreCustomScale": false
       }
     },
-    "eliteFarmingWeights": {
-      "display": false,
-      "pos": {
-        "x": -296,
-        "y": 35,
-        "scale": 1.0,
-        "centerX": false,
-        "centerY": true,
-        "ignoreCustomScale": false
-      },
-      "leaderboard": true,
-      "eliteLBType": "DEFAULT",
-      "overtakeETA": false,
-      "showLbChange": false,
-      "overtakeETAAlways": true,
-      "useEtaGoalRank": true,
-      "etaGoalRank": "10000",
-      "ignoreLow": false,
-      "showOutsideGarden": false
-    },
     "moneyPerHours": {
       "display": false,
       "showOnlyBest": 5,
@@ -1087,6 +1211,17 @@
     "armorDropTracker": {
       "enabled": false,
       "hideChat": false,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      },
       "position": {
         "x": 16,
         "y": -232,
@@ -1240,9 +1375,46 @@
       "pestProfitTracker": {
         "enabled": false,
         "hideChat": true,
+        "onlyWhenHolding": [
+          "SPRAYONATOR",
+          "VACUUM",
+          "TIMEOUT"
+        ],
+        "hideWhileFarming": true,
         "timeDisplayed": 30,
         "includeBits": false,
         "coinsPerBit": 700,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": -79,
           "y": -139,
@@ -1256,9 +1428,9 @@
         "pestWhenSelector": true,
         "drawPlotsBorderWhenInHands": true,
         "position": {
-          "x": 315,
-          "y": -200,
-          "scale": 2.3,
+          "x": 113,
+          "y": -135,
+          "scale": 1.5000001,
           "centerX": false,
           "centerY": true,
           "ignoreCustomScale": false
@@ -1268,8 +1440,8 @@
         "expiryNotification": true,
         "newSprayNotification": false,
         "displayPosition": {
-          "x": 390,
-          "y": 75,
+          "x": 13,
+          "y": 35,
           "scale": 1.0,
           "centerX": false,
           "centerY": true,
@@ -1303,11 +1475,40 @@
           "ignoreCustomScale": false
         }
       },
+      "mantidDisplay": {
+        "enabled": true,
+        "whenToShow": [
+          "MANTID"
+        ],
+        "groupSimilarExpire": 30,
+        "pos": {
+          "x": 200,
+          "y": 50,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        }
+      },
       "muteVacuum": false,
-      "pestChanceDisplay": false,
+      "pestChanceDisplay": "DISABLED",
       "pestChanceDisplayPosition": {
         "x": 5,
         "y": -115,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true,
+        "ignoreCustomScale": false
+      }
+    },
+    "greenhouse": {
+      "showDisplay": false,
+      "onlyShowWhenOverdue": false,
+      "highlightHarvestableStatus": true,
+      "highlightWaterStatus": true,
+      "position": {
+        "x": 102,
+        "y": 40,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -1433,8 +1634,8 @@
       "overflow": true,
       "muteHoeSounds": true,
       "position": {
-        "x": 100,
-        "y": 100,
+        "x": 113,
+        "y": 93,
         "scale": 1.0,
         "centerX": true,
         "centerY": true,
@@ -1460,6 +1661,37 @@
         "TOTAL_BLOCKS",
         "TOTAL_PROFIT"
       ],
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      },
       "position": {
         "x": 80,
         "y": 20,
@@ -1651,6 +1883,17 @@
           "showOutsideWestVillage": false,
           "showWithoutVacuum": false,
           "hideChat": false,
+          "perTrackerConfig": {
+            "trackerConfig": {
+              "defaultDisplayMode": "REMEMBER_LAST",
+              "showUptime": true,
+              "onlyShowSession": true,
+              "afkTimeout": 30,
+              "trackerSearchEnabled": true,
+              "priceSource": "BAZAAR_INSTANT_BUY"
+            },
+            "useUniversalConfig": false
+          },
           "position": {
             "x": 16,
             "y": -232,
@@ -1815,6 +2058,37 @@
           "expiryTimer": true,
           "tracker": false,
           "onlyShowWhileHolding": false,
+          "perTrackerConfig": {
+            "trackerConfig": {
+              "itemTracker": {
+                "showRecentDrops": true,
+                "excludeHiddenItemsInPrice": false,
+                "showTable": true,
+                "itemsShown": 10,
+                "profitPerHour": true,
+                "hideInEstimatedItemValue": true,
+                "hideOutsideInventory": false,
+                "warnings": {
+                  "chat": true,
+                  "minimumChat": 5000000,
+                  "title": true,
+                  "minimumTitle": 5000000
+                },
+                "textOrder": [
+                  "AMOUNT",
+                  "NAME",
+                  "TOTAL_PRICE"
+                ]
+              },
+              "defaultDisplayMode": "REMEMBER_LAST",
+              "showUptime": true,
+              "onlyShowSession": true,
+              "afkTimeout": 30,
+              "trackerSearchEnabled": true,
+              "priceSource": "BAZAAR_INSTANT_BUY"
+            },
+            "useUniversalConfig": false
+          },
           "timerPosition": {
             "x": 421,
             "y": -220,
@@ -2005,8 +2279,8 @@
       "customAlertText": "\u0026c\u0026l!!!",
       "hideArmorStand": true,
       "position": {
-        "x": -475,
-        "y": -240,
+        "x": 150,
+        "y": 142,
         "scale": 3.4,
         "centerX": true,
         "centerY": true,
@@ -2026,16 +2300,47 @@
       "highlight": false
     },
     "fishingProfitTracker": {
-      "enabled": false,
+      "enabled": true,
       "position": {
-        "x": 20,
-        "y": 20,
-        "scale": 1.0,
+        "x": 120,
+        "y": 39,
+        "scale": 0.6999999,
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
       },
-      "showWhenPickup": true
+      "showWhenPickup": false,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "totemOfCorruption": {
       "showOverlay": true,
@@ -2065,7 +2370,18 @@
       },
       "showPercentage": false,
       "hideChat": false,
-      "countDouble": true
+      "countDouble": true,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "lavaReplacement": {
       "enabled": false,
@@ -2086,7 +2402,8 @@
     "guessHotspotRadar": true,
     "guessHotspotRadarPathFind": true,
     "lineToHotspot": false,
-    "muteBanshee": false
+    "muteBanshee": false,
+    "flayHideDistance": 2.0
   },
   "mining": {
     "miningEvent": {
@@ -2151,6 +2468,17 @@
         "ELECTRON",
         "ROBOTRON"
       ],
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      },
       "position": {
         "x": -274,
         "y": 0,
@@ -2163,9 +2491,9 @@
     "powderChestTimer": {
       "enabled": true,
       "onlyMaxGreatExplorer": false,
-      "highlightChests": true,
+      "highlightChests": false,
       "useStaticColor": false,
-      "staticColor": "0:245:85:255:85",
+      "staticColor": "0:92:85:255:85",
       "drawTimerOnChest": true,
       "lineMode": "OLDEST",
       "drawLineToChestAmount": 5,
@@ -2213,7 +2541,38 @@
       "showOutsideNucleus": false,
       "profitPer": true,
       "profitPerMinimum": 20000,
-      "professorUsage": "ROBOT_PARTS"
+      "professorUsage": "ROBOT_PARTS",
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "metalDetector": {
       "metalDetectorSolver": true,
@@ -2267,6 +2626,37 @@
         "enabled": true,
         "trackGlacitePowder": true,
         "showFossilDust": true,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": -380,
           "y": 150,
@@ -2279,6 +2669,20 @@
       "tooltipHider": {
         "hideDirt": true,
         "hideEverything": false
+      },
+      "scrapGFS": {
+        "enabled": false,
+        "position": {
+          "x": 100,
+          "y": 100,
+          "scale": 1.0,
+          "centerX": false,
+          "centerY": true,
+          "ignoreCustomScale": false
+        },
+        "fetchAmount": 16,
+        "onlyIfNoScrap": true,
+        "bzIfSacksEmpty": true
       },
       "profitPerExcavation": false,
       "glacitePowderStack": false
@@ -2296,6 +2700,37 @@
       "corpseTracker": {
         "enabled": false,
         "onlyInMineshaft": false,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": -274,
           "y": 0,
@@ -2456,7 +2891,7 @@
     "trees": {
       "cleanView": true,
       "progress": {
-        "enabled": true,
+        "enabled": false,
         "position": {
           "x": 281,
           "y": 54,
@@ -2477,8 +2912,8 @@
       "compactResults": false,
       "compactPersonalBest": false,
       "agathaCouponProfitPos": {
-        "x": 206,
-        "y": 158,
+        "x": 73,
+        "y": 42,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -2525,7 +2960,38 @@
       ],
       "onlyHoldingAxe": true,
       "disappearingDelay": 15,
-      "showWholeTrees": true
+      "showWholeTrees": true,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "mutePhantoms": true
   },
@@ -2552,7 +3018,38 @@
         "centerY": true,
         "ignoreCustomScale": false
       },
-      "showWhenPickup": true
+      "showWhenPickup": true,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "mobHighlight": {
       "birries": {
@@ -2568,7 +3065,7 @@
         "color": "0:255:0:255:255"
       }
     },
-    "lassoDisplay": true,
+    "lassoDisplay": false,
     "lassoDisplayPosition": {
       "x": 380,
       "y": 210,
@@ -2646,9 +3143,40 @@
         "AVERAGE_MAGIC_FIND",
         "BESTIARY_KILLS"
       ],
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      },
       "position": {
-        "x": 50,
-        "y": 50,
+        "x": 107,
+        "y": 23,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -2659,6 +3187,37 @@
       "draconicSacrificeTracker": {
         "enabled": true,
         "onlyInVoidSlate": true,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": 201,
           "y": 199,
@@ -2670,16 +3229,47 @@
       },
       "dragon": {
         "dragonProfitTracker": {
-          "enabled": true,
+          "enabled": false,
           "position": {
-            "x": 20,
-            "y": 20,
+            "x": 118,
+            "y": 39,
             "scale": 1.0,
             "centerX": false,
             "centerY": true,
             "ignoreCustomScale": false
           },
-          "countLeechedDragons": true
+          "countLeechedDragons": true,
+          "perTrackerConfig": {
+            "trackerConfig": {
+              "itemTracker": {
+                "showRecentDrops": true,
+                "excludeHiddenItemsInPrice": false,
+                "showTable": true,
+                "itemsShown": 10,
+                "profitPerHour": true,
+                "hideInEstimatedItemValue": true,
+                "hideOutsideInventory": false,
+                "warnings": {
+                  "chat": true,
+                  "minimumChat": 5000000,
+                  "title": true,
+                  "minimumTitle": 5000000
+                },
+                "textOrder": [
+                  "AMOUNT",
+                  "NAME",
+                  "TOTAL_PRICE"
+                ]
+              },
+              "defaultDisplayMode": "REMEMBER_LAST",
+              "showUptime": true,
+              "onlyShowSession": true,
+              "afkTimeout": 30,
+              "trackerSearchEnabled": true,
+              "priceSource": "BAZAAR_INSTANT_BUY"
+            },
+            "useUniversalConfig": false
+          }
         },
         "superiorNotify": true,
         "display": false,
@@ -2716,6 +3306,17 @@
           "ENDER_ARMOR",
           "ENDERMAN_PET"
         ],
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": 10,
           "y": 80,
@@ -2872,7 +3473,22 @@
         "centerX": false,
         "centerY": true,
         "ignoreCustomScale": false
+      },
+      "croesusAllChestsOverlay": false,
+      "croesusHighlight": false,
+      "keybind": -1,
+      "croesusPosition": {
+        "x": 107,
+        "y": 141,
+        "scale": 1.0,
+        "centerX": false,
+        "centerY": true,
+        "ignoreCustomScale": false
       }
+    },
+    "cocoonOverlay": {
+      "showCocoonTimerTillHatch": true,
+      "showCocoonContainedMobName": true
     },
     "hideDamageSplash": false
   },
@@ -2979,10 +3595,10 @@
       }
     },
     "itemProfitTracker": {
-      "enabled": false,
+      "enabled": true,
       "pos": {
-        "x": 263,
-        "y": 39,
+        "x": 102,
+        "y": 44,
         "scale": 0.5999999,
         "centerX": false,
         "centerY": true,
@@ -2990,7 +3606,38 @@
       },
       "voidgloomInNest": false,
       "voidgloomInNoArea": true,
-      "revenantInGraveyard": true
+      "revenantInGraveyard": true,
+      "perTrackerConfig": {
+        "trackerConfig": {
+          "itemTracker": {
+            "showRecentDrops": true,
+            "excludeHiddenItemsInPrice": false,
+            "showTable": true,
+            "itemsShown": 10,
+            "profitPerHour": true,
+            "hideInEstimatedItemValue": true,
+            "hideOutsideInventory": false,
+            "warnings": {
+              "chat": true,
+              "minimumChat": 5000000,
+              "title": true,
+              "minimumTitle": 5000000
+            },
+            "textOrder": [
+              "AMOUNT",
+              "NAME",
+              "TOTAL_PRICE"
+            ]
+          },
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      }
     },
     "itemsOnGround": {
       "enabled": true,
@@ -3301,6 +3948,37 @@
         "trackTimeSpent": false,
         "trackUsedBottles": true,
         "bottleWarnings": true,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": 20,
           "y": 20,
@@ -3640,6 +4318,17 @@
       "boosterCookieRequirement": false,
       "hotChocolateMixinRequirement": false,
       "strayRabbitTracker": true,
+      "strayTrackerConfig": {
+        "trackerConfig": {
+          "defaultDisplayMode": "REMEMBER_LAST",
+          "showUptime": true,
+          "onlyShowSession": true,
+          "afkTimeout": 30,
+          "trackerSearchEnabled": true,
+          "priceSource": "BAZAAR_INSTANT_BUY"
+        },
+        "useUniversalConfig": false
+      },
       "strayRabbitTrackerPosition": {
         "x": 300,
         "y": 300,
@@ -3822,6 +4511,7 @@
       "formatType": "SHORT",
       "itemToShow": 5,
       "hideBelow": 100000,
+      "ignoreSoulbound": false,
       "position": {
         "x": 5,
         "y": -114,
@@ -3925,7 +4615,7 @@
     "attributeShards": {
       "enabled": true,
       "hideMaxed": true,
-      "onlyNotUnlocked": false,
+      "onlyNotUnlocked": true,
       "includeHuntingBox": true,
       "onlyCurrentInventory": false,
       "displaySortingMethod": "PRICE_TO_NEXT_TIER",
@@ -4039,9 +4729,11 @@
       "boopParty": false
     },
     "diana": {
-      "highlightInquisitors": true,
+      "highlightRareMobs": true,
       "color": "0:127:85:255:255",
-      "guess": false,
+      "guess": true,
+      "beaconDistance": 10.0,
+      "textScale": 1.0,
       "multiGuesses": true,
       "burrowsNearbyDetection": false,
       "lineToNext": true,
@@ -4049,7 +4741,7 @@
       "warnOnFail": true,
       "warnOnChainComp": true,
       "renderSubGuesses": false,
-      "clearOnWorldChange": false,
+      "clearOnWorldChange": true,
       "burrowNearestWarp": false,
       "keyBindWarp": -1,
       "warpDistanceDifference": 10,
@@ -4061,14 +4753,13 @@
         "centerY": true,
         "ignoreCustomScale": false
       },
-      "ignoredWarps": {
-        "crypt": false,
-        "wizard": false,
-        "stonks": false
-      },
-      "inquisitorSharing": {
+      "ignoredWarpsList": [
+        "TAYLOR"
+      ],
+      "petWarning": true,
+      "rareMobsSharing": {
         "enabled": true,
-        "focusInquisitor": false,
+        "focus": false,
         "instantShare": true,
         "keyBindShare": 89,
         "sound": {
@@ -4078,13 +4769,43 @@
         "showDespawnTime": true,
         "globalChat": false
       },
-      "petWarning": true,
       "dianaProfitTracker": {
-        "enabled": false,
+        "enabled": true,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
-          "x": 20,
-          "y": 20,
-          "scale": 1.0,
+          "x": 115,
+          "y": 28,
+          "scale": 0.6999999,
           "centerX": false,
           "centerY": true,
           "ignoreCustomScale": false
@@ -4102,7 +4823,18 @@
         },
         "showPercentage": false,
         "hideChat": false,
-        "shardWarn": false
+        "shardWarn": false,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        }
       },
       "allBurrowsList": {
         "save": true,
@@ -4130,6 +4862,17 @@
         "onlyInCave": true,
         "showAsDrops": false,
         "hideMessages": false,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": 10,
           "y": 80,
@@ -4157,8 +4900,8 @@
       },
       "islandCloseTime": true,
       "islandCloseTimePosition": {
-        "x": 10,
-        "y": 10,
+        "x": 99,
+        "y": 58,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -4171,6 +4914,37 @@
       "giftProfitTracker": {
         "enabled": false,
         "holdingGift": false,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
           "x": -274,
           "y": 0,
@@ -4446,10 +5220,41 @@
       "shinyOrbTracker": {
         "enabled": true,
         "holdingItems": false,
+        "perTrackerConfig": {
+          "trackerConfig": {
+            "itemTracker": {
+              "showRecentDrops": true,
+              "excludeHiddenItemsInPrice": false,
+              "showTable": true,
+              "itemsShown": 10,
+              "profitPerHour": true,
+              "hideInEstimatedItemValue": true,
+              "hideOutsideInventory": false,
+              "warnings": {
+                "chat": true,
+                "minimumChat": 5000000,
+                "title": true,
+                "minimumTitle": 5000000
+              },
+              "textOrder": [
+                "AMOUNT",
+                "NAME",
+                "TOTAL_PRICE"
+              ]
+            },
+            "defaultDisplayMode": "REMEMBER_LAST",
+            "showUptime": true,
+            "onlyShowSession": true,
+            "afkTimeout": 30,
+            "trackerSearchEnabled": true,
+            "priceSource": "BAZAAR_INSTANT_BUY"
+          },
+          "useUniversalConfig": false
+        },
         "position": {
-          "x": 100,
-          "y": 100,
-          "scale": 1.0,
+          "x": 99,
+          "y": 9,
+          "scale": 0.6999999,
           "centerX": false,
           "centerY": true,
           "ignoreCustomScale": false
@@ -4624,15 +5429,15 @@
         "swoopAxeMessage": false
       },
       "stashMessages": {
-        "enabled": true,
+        "enabled": false,
         "hideDuplicateWarning": {
           "enabled": true,
           "worldChangeReset": true
         },
         "hideAddedMessages": true,
         "hideLowWarningsThreshold": 0,
-        "useViewStash": false,
-        "disableEmptyWarnings": false,
+        "useViewStash": true,
+        "disableEmptyWarnings": true,
         "tabCompleteStashCommand": true
       },
       "hypixelHub": false,
@@ -4690,7 +5495,10 @@
         "SHEEP",
         "COW",
         "PIG",
-        "CHICKEN"
+        "CHICKEN",
+        "FROG",
+        "HORSE",
+        "GOAT"
       ]
     },
     "rareDropMessages": {
@@ -4704,9 +5512,9 @@
     "hideFarDeathMessages": false,
     "currentChatDisplay": true,
     "currentChatDisplayPos": {
-      "x": 3,
-      "y": -21,
-      "scale": 1.0,
+      "x": 20,
+      "y": -36,
+      "scale": 0.79999995,
       "centerX": false,
       "centerY": true,
       "ignoreCustomScale": false
@@ -4729,9 +5537,11 @@
     "skyBlockXPInChat": true,
     "hideJacob": true,
     "hideSkyMall": true,
+    "showEffectivePowder": false,
     "hideLottery": true,
     "shortenCoinAmounts": true,
-    "hideClickableHint": false
+    "hideClickableHint": false,
+    "darkAuctionItemDisplay": true
   },
   "misc": {
     "pets": {
@@ -4868,8 +5678,8 @@
         "includeCurrentArea": false,
         "color": "0:245:85:255:85",
         "position": {
-          "x": 4,
-          "y": 149,
+          "x": 5,
+          "y": 100,
           "scale": 0.79999995,
           "centerX": false,
           "centerY": true,
@@ -4894,8 +5704,8 @@
       "includeSmallAreas": false
     },
     "hideArmor": {
-      "mode": "OFF",
-      "onlyHelmet": false
+      "mode": "ALL",
+      "onlyHelmet": true
     },
     "nonGodPotEffect": {
       "displayEnabled": false,
@@ -4942,8 +5752,8 @@
         "ELUSIVE"
       ],
       "position": {
-        "x": 10,
-        "y": -165,
+        "x": 116,
+        "y": 25,
         "scale": 0.79999995,
         "centerX": false,
         "centerY": true,
@@ -4991,8 +5801,8 @@
       "enabled": true,
       "warnTime": 60,
       "position": {
-        "x": 400,
-        "y": 200,
+        "x": 209,
+        "y": 29,
         "scale": 1.3,
         "centerX": false,
         "centerY": true,
@@ -5000,30 +5810,32 @@
       }
     },
     "tracker": {
-      "hideInEstimatedItemValue": true,
-      "priceSource": "BAZAAR_INSTANT_BUY",
-      "defaultDisplayMode": "REMEMBER_LAST",
-      "showRecentDrops": true,
-      "excludeHiddenItemsInPrice": false,
-      "warnings": {
-        "chat": true,
-        "minimumChat": 5000000,
-        "title": true,
-        "minimumTitle": 5000000
+      "itemTracker": {
+        "showRecentDrops": true,
+        "excludeHiddenItemsInPrice": false,
+        "showTable": true,
+        "itemsShown": 10,
+        "profitPerHour": true,
+        "hideInEstimatedItemValue": true,
+        "hideOutsideInventory": false,
+        "warnings": {
+          "chat": true,
+          "minimumChat": 5000000,
+          "title": true,
+          "minimumTitle": 5000000
+        },
+        "textOrder": [
+          "AMOUNT",
+          "NAME",
+          "TOTAL_PRICE"
+        ]
       },
-      "showTable": true,
-      "itemsShown": 10,
-      "hideOutsideInventory": false,
+      "defaultDisplayMode": "REMEMBER_LAST",
       "showUptime": true,
-      "profitPerHour": true,
       "onlyShowSession": true,
       "afkTimeout": 30,
       "trackerSearchEnabled": true,
-      "textOrder": [
-        "AMOUNT",
-        "NAME",
-        "TOTAL_PRICE"
-      ]
+      "priceSource": "BAZAAR_INSTANT_BUY"
     },
     "petCandy": {
       "showCandy": true,
@@ -5219,7 +6031,8 @@
     "hideExCoopMembers": false,
     "abiphoneAcceptKey": -1,
     "fixDoubleClicks": false,
-    "fixColorParticles": false
+    "fixColorParticles": false,
+    "rainbowActionBar": false
   },
   "dev": {
     "repo": {
@@ -5462,6 +6275,6 @@
     "reminders": {},
     "testRenderablePositions": {}
   },
-  "lastVersion": 116,
-  "lastMinecraftVersion": "1.21.8"
+  "lastVersion": 121,
+  "lastMinecraftVersion": "1.21.10"
 }

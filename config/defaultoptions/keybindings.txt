@@ -10,6 +10,7 @@ key_key.gammautils.nightVisionToggle:key.keyboard.unknown:
 key_key.tooltipscroll.moveUp:key.keyboard.page.up:
 key_key.tooltipscroll.moveDown:key.keyboard.page.down:
 key_key.skyblocker.hotbarSlotLock:key.keyboard.unknown:
+key_key.skyblocker.itemProtection:key.keyboard.f
 key_key.skyblocker.slottext:key.keyboard.unknown:
 key_key.skyblocker.toggleA:key.keyboard.left.alt:
 key_key.skyblocker.defaultTgl:key.keyboard.unknown:
@@ -18,4 +19,4 @@ key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown:
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown:
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown:
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown:
-key_keybind.name.ZOOM:key.keyboard.unknown:
+key_keybind.name.ZOOM:key.keyboard.z:

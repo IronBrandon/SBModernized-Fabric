@@ -5,7 +5,7 @@
   "resetOnUnlock": true,
   "useLShift": true,
   "invertXScroll": false,
-  "invertYScroll": false,
+  "invertYScroll": true,
   "scrollSpeed": 10,
   "keyboardScrollSpeed": 5,
   "scrollSmoothness": 0.25,

@@ -36,7 +36,8 @@
       "dungeonQuality": true,
       "showEssenceCost": true,
       "enableEstimatedItemValue": true,
-      "enableStackingEnchantProgress": true
+      "enableStackingEnchantProgress": true,
+      "enableEvolvingItemProgress": true
     },
     "itemInfoDisplay": {
       "itemBackgroundStyle": "SQUARE",
@@ -47,7 +48,7 @@
     },
     "itemProtection": {
       "slotLockStyle": "FANCY",
-      "displayChatNotification": true,
+      "displayChatNotification": false,
       "protectValuableConsumables": true
     },
     "wikiLookup": {
@@ -100,8 +101,16 @@
     "museumOverlay": true,
     "slotText": {
       "slotTextMode": "ENABLED",
-      "textEnabled": {},
+      "textEnabled": {
+        "enchantment_abbreviation": false,
+        "enchantment_level": false
+      },
       "slotTextToggled": false
+    },
+    "radialMenu": {
+      "enabled": false,
+      "tooltipsWithoutShift": false,
+      "enabledMenus": {}
     },
     "inventorySearch": {
       "enabled": "SKYBLOCK",
@@ -133,6 +142,9 @@
     },
     "bars": {
       "enableBars": true,
+      "enableBarsRift": true,
+      "riftHealthHP": false,
+      "enableVanillaStyleManaBar": false,
       "intelligenceDisplay": "ORIGINAL",
       "barPositions": {
         "healthBarPosition": "LAYER1",
@@ -178,9 +190,21 @@
       "maxSuggestions": 3,
       "historyLength": 3,
       "enableCommands": false,
-      "bazaarHistory": [],
-      "auctionHistory": [],
-      "museumHistory": []
+      "bazaarHistory": [
+        "Wisdom",
+        "Cultivating I",
+        "Lumisquid Shard"
+      ],
+      "auctionHistory": [
+        "God Potion",
+        "Spooky Cupcake",
+        "Axe"
+      ],
+      "museumHistory": [
+        "Lasso",
+        "Pest",
+        "Pesthunter"
+      ]
     },
     "bazaarQuickQuantities": {
       "enabled": false,
@@ -200,25 +224,25 @@
     },
     "compactDamage": {
       "enabled": true,
-      "precision": 1,
+      "maxPrecision": 4,
       "normalDamageColor": -1,
       "critDamageGradientStart": -171,
       "critDamageGradientEnd": -43691
     },
     "healthBars": {
-      "enabled": false,
+      "enabled": true,
       "scale": 1.5,
       "removeHealthFromName": true,
-      "removeMaxHealthFromName": true,
+      "removeMaxHealthFromName": false,
       "applyToHealthOnlyMobs": true,
-      "hideFullHealth": false,
+      "hideFullHealth": true,
       "fullBarColor": -16711936,
       "halfBarColor": -47616,
       "emptyBarColor": -65536
     },
     "gyroOverlay": {
-      "gyroOverlayMode": "OFF",
-      "gyroOverlayColor": 2138445204
+      "gyroOverlayMode": "CIRCLE",
+      "gyroOverlayColor": 1251225739
     },
     "itemPickup": {
       "enabled": true,
@@ -298,7 +322,7 @@
     },
     "fairySouls": {
       "enableFairySoulsHelper": false,
-      "highlightFoundSouls": true,
+      "highlightFoundSouls": false,
       "highlightOnlyNearbySouls": false
     },
     "chocolateFactory": {
@@ -347,6 +371,10 @@
       "fancyMap": true,
       "showSelfHead": true,
       "showRoomLabels": true,
+      "roomLabelType": "ROOM_NAME_AND_SECRETS_FOUND",
+      "hideCheckmarks": true,
+      "showOutline": true,
+      "backgroundBlur": false,
       "mapScaling": 1.0,
       "mapX": 472,
       "mapY": 24
@@ -403,6 +431,15 @@
       "enableGoldorWaypoints": true,
       "waypointType": "WAYPOINT"
     },
+    "terminalHud": {
+      "enableTerminalHud": false,
+      "showTerminalStatus": true,
+      "showPlayerAtTerminal": true,
+      "showTerminals": true,
+      "showDevice": true,
+      "showLevers": true,
+      "showGate": true
+    },
     "secretWaypoints": {
       "enableSecretWaypoints": true,
       "waypointType": "WAYPOINT",
@@ -442,7 +479,7 @@
       "enableDungeonScore270Title": false,
       "enableDungeonScore270Sound": false,
       "dungeonScore270Message": "270 Score Reached!",
-      "enableDungeonScore300Message": true,
+      "enableDungeonScore300Message": false,
       "enableDungeonScore300Title": true,
       "enableDungeonScore300Sound": true,
       "dungeonScore300Message": "300 Score Reached!",
@@ -473,7 +510,7 @@
       "enableLushlilacHighlighter": true,
       "enableSeaLumiesHighlighter": true,
       "seaLumiesMinimumCount": 3,
-      "enableTreeBreakProgress": false,
+      "enableTreeBreakProgress": true,
       "enableTunerSolver": true,
       "enableSweepDetailsWidget": false
     },
@@ -689,14 +726,13 @@
     "hideMimicKill": "PASS",
     "hideDeath": "PASS",
     "hideMana": false,
-    "hideDicer": "PASS",
     "hideDungeonBreaker": "PASS",
     "chatRuleConfig": {
       "announcementLength": 60
     }
   },
   "quickNav": {
-    "enableQuickNav": true,
+    "enableQuickNav": false,
     "button1": {
       "render": true,
       "doubleClick": false,

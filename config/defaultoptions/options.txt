@@ -1,16 +1,8 @@
-version:4440
+version:4556
 fov:0.375
-prioritizeChunkUpdates:0
-guiScale:3
-inactivityFpsLimit:"afk"
-mipmapLevels:4
-particles:0
-renderClouds:"true"
 screenEffectScale:1.0
 autoJump:false
-autoSuggestions:true
 discrete_mouse_scroll:false
-invertYMouse:false
 realmsNotifications:false
 darkMojangStudiosBackground:true
 mouseSensitivity:0.25
