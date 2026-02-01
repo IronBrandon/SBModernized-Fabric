@@ -15,7 +15,7 @@ Fabric 0.18.4
   - Firmament 43.0.0
   - Skyblocker 6.0.0-b2
   - SkyCubed 1.8.1
-  - SkyHanni 6.14.0
+  - SkyHanni 6.16.0
 - Quality-of-Life
   - Armor Hud 3.0
   - Chat Patches 8.0-a7

@@ -32,6 +32,8 @@ Miniscular Performance Impact
 3. Chat Heads
 4. Model Gap Fix
 5. Mod Menu
+
+**High Impact Resource-Packs**: Detailed Animations, FA: Spiders, Furfsky Reborn
 </details>
 
 - - -
@@ -67,13 +69,11 @@ Now you should be ready to just play! If you are playing in a resolution other t
 
 It's recommended that you keep all the packs as-is, but here are the purposes of some of the packs.
 
-1. **FurfSky Reborn** is _highly_ recommended. FurfSky is one of the best SkyBlock item resource packs with textures for almost every custom item in SkyBlock.
-2. **Leaves Plus** is for more pretty leaves. This is well optimized but you may disable if it isn't your cup of tea.
-3. **Crops & Foliage Variations** is for prettier crops. May have a performance hit on the garden or farm, but it seems to be well optimized.
-4. **FreshAnimations** is for more lively mob animations. Pretty well optimized and should work fine in most appears, this is purely preference.
-5. **Detailed Animations** has beautiful player animations, which also apply to NPCs and some enemies. Not as optimized as other packs, disable if needed.
-6. **No Enchant Glint** can be used for removing the enchant glint.
-7. **Serified Font** is another preference thing. Has no noticeable performance impact and looks perfect in a majority of UIs, and to some may look a lot better than Vanilla.
+1. **FurfSky Reborn**, **Sophie's Enchant Books**, and **Arkudii's Detailed Skyblock** are all _highly_ recommended (_if you have poor performance, please try disabling other visual mods or packs first_). FurfSky is one of the largest SkyBlock item resource packs with textures for almost every custom item in SkyBlock. Sophie's Enchant Books help distinguish enchantment books' textures, making organization much easier. Arkudii's Detailed Skyblock is smaller, but adds some additional improvements to the environments that I believe will be well appreciated.
+2. **FreshAnimations** and its add-ons are for more lively mob animations. Pretty well optimized and should work fine in most situations. This is purely preference.
+3. **Detailed Animations** has beautiful player animations, which also apply to NPCs and some enemies. Not as optimized as other packs, disable if needed.
+4. **Crops & Foliage Variations** is for prettier crops. May have a performance hit on the garden or farm, but it seems to be well optimized.
+5. **Serified Font** is another preference thing. Has no performance impact and functions perfectly in all the UIs, and to some may look a lot better than Vanilla.
 
 Try to keep the resource packs in their default order.
 

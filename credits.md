@@ -2,7 +2,7 @@
 
 Major thanks to **all** the mod, resource-pack, and shader-pack programmers, artists, UI designers, sound engineers, etc. All of these come together to make a functional and beautiful modpack, I only put them together and made minor adjustments to existing settings, these are the true heroes!
 
-If you have a mod that is in the modpack that is missing credit, micredited, or that you'd like removed, request credit or removal at <ironbrandon22@gmail.com>
+If you see a mod in the content list that is missing credit, micredited, or that you'd like removed, request credit or removal at <ironbrandon22@gmail.com>
 
 ### Modifications
 
@@ -25,17 +25,16 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 
 - **EMF** & **ETF** by Traben
 - **AmbientSounds** by CreativeMD & AriaFreeze
+- **Armor Hud** by SaolGhra
 - **BadOptimizations** by Thosea
 - **Better Clouds** by Qendolin
-- **Better Third Person** by Socolio
 - **Chat Heads** by dzwdz & Fourmisain
 - **Chat Patches** by OBro1961 _and contributors_
 - **Config Manager** by TheBossMagnus
-- **Continuity** by PepperCode1
 - **Controlling** by Jaredlll08
+- **Cool Rain** by Jaiz
 - **Cubes Without Borders** by Kir_Antipov
 - **Default Options** by BlayTheNinth
-- **Dynamic Crosshair** by Crendgrim
 - **Dynamic FPS**
   - juliand665
   - LostLuma
@@ -58,10 +57,11 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
   - TerraformersMC
   - _and contributors_
 - **Model Gap Fix** by MehVahdjukaar
+- **More Culling** by PR0CESS & 1Foxy2
 - **Mouse Tweaks** by YaLTeR (_Ivan Molodetskikh_)
 - **Packet Fixer** by TonimatesDEV
-- **Particle Interactions** by Enchanted_Games
 - **Particle Rain** by PigCart
+- **Particular Reforged** by Leclowndu93150
 - **Puzzle** by PuzzleMC & Motschen
 - **Resource Pack Options** by JFronn
 - **Resource Pack Overrides** by Fuzs
@@ -78,25 +78,26 @@ If you have a mod that is in the modpack that is missing credit, micredited, or 
 
 #### Creators of Several APIs
 
-- shedaniel
-- Fallen_Breath
-- BlayTheNinth
-- CreativeMD
 - AriaFreeze
 - AzureAaron
+- Bawnorton
+- BlayTheNinth
+- CreativeMD
 - Crendgrim
+- Epic_Oreo
+- Fallen_Breath
+- Fuzs
+- isXander
+- Jaredlll08
 - JFronny
 - Juuz
-- Provismet
-- Motschen
-- TeamMidnightDust
 - LlamaLad7
-- Bawnorton
-- ThatGravyBoat
+- Motschen
 - Patbox
-- Epic_Oreo
-- Jaredlll08
-- isXander
+- Provismet
+- shedaniel
+- TeamMidnightDust
+- ThatGravyBoat
 
 ### Resource Packs
 
