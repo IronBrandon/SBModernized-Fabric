@@ -79,7 +79,7 @@ Fabric 0.18.4
 - MidnightLib 1.9.2
 - Mod Menu 16.0.0
 - Searchables 1.0.2
-- Text Placeholder API 2.8.1
+- Text Placeholder API 2.8.2
 - YetAnotherConfigLib 3.8.2
 
 ## Resource-Packs
