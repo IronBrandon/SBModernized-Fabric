@@ -12,21 +12,22 @@ Goodbye, 1.8.9, you will be missed...
 The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. I will include a list below of all mods and packs that are purely visual you may disable, from most potential performance impact to least (_not everyone has a good PC_).
 
 <details><summary>Purely Cosmetic Mods</summary>
+
 _Note: Iris Shaders is not included as the shaders are disabled by default in-game_\
 _brackets indicate dependencies other mods don't require_
 
-High Performance Impact
+**High Performance Impact**
 1. Sound Physics Remastered
 2. Particular Reforged [Foreg Config API Port]
 3. Particle Rain
 
-Partial Performance Impact
+**Partial Performance Impact**
 1. Cool Rain
 2. Visuality
 3. Essential
 4. SkyCubed
 
-Miniscular Performance Impact
+**Miniscular Performance Impact**
 1. AmbientSounds
 2. Better Clouds
 3. Chat Heads
