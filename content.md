@@ -73,6 +73,7 @@ Fabric 0.18.4
 - Entity Texture Features 7.0.8
 - Fabric API 0.138.4
 - Fabric Language Kotlin 1.13.8
+- Forge Config API Port 21.10.1
 - Konkrete 1.9.13
 - LibJF 3.19.4+backport
 - Melody 1.0.14
