@@ -13,12 +13,17 @@ The **SBModernized** mod-pack will be developed over time to be optimized, prett
 
 <details><summary>Purely Cosmetic Mods</summary>
 
-_Note: Iris Shaders is not included as the shaders are disabled by default in-game_\
-_brackets indicate dependencies other mods don't require_
+_Note: Iris Shaders is not included as the shaders are disabled by default in-game._\
+_Brackets indicate dependents of an API that can be disabled if its dependents are._
+
+CreativeCore: _AmbientSounds_\
+Forge Config API Port _Particular Reforged_\
+Konkrete: _FancyMenu_\
+Melody: _FancyMenu_
 
 **High Performance Impact**
 1. Sound Physics Remastered
-2. Particular Reforged [Foreg Config API Port]
+2. Particular Reforged
 3. Particle Rain
 
 **Partial Performance Impact**
@@ -31,8 +36,9 @@ _brackets indicate dependencies other mods don't require_
 1. AmbientSounds
 2. Better Clouds
 3. Chat Heads
-4. Model Gap Fix
-5. Mod Menu
+4. FancyMenu
+5. Model Gap Fix
+6. Mod Menu
 
 **High Impact Resource-Packs**: Detailed Animations, FA: Spiders, Furfsky Reborn
 </details>
@@ -112,12 +118,14 @@ Below are some notable keybinds (_all command binds are in SkyBlocker).
 
 - **M**: Open Map (_Skycubed_)
 - **Left Alt** (hold): Show tab secondary view (_Skyblocker_)
-- **H**: Bags Menu `/bags`
 - **C**: Equipment Menu `/equipment`
+- **G**: Bags Menu `/bags`
+- **H**: Hunting Box `/huntingbox`
 - **B**: Booster Cookie Menu `/boostercookie`
 - **U**: Wardrobe Menu `/wardrobe`
 - **I**: Storage Menu `/storage`
 - **P**: Pets Menu `/pets`
+- **Backslash (\\)**: Modify Skyhanni HUD
 - **Numpad 0**: Warp Menu `/warp`
 - **Numpad Period**: Warp to Hub `/hub`
 

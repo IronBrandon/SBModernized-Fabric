@@ -18,5 +18,7 @@ key_iris.keybind.reload:key.keyboard.unknown:
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown:
 key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown:
 key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown:
+key_keybind.name.CHAT_PEEK:key.keyboard.unknown
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown:
+key_keybind.name.MENU_ACCESS:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.z:
