@@ -18,7 +18,9 @@ Fabric 0.18.4
   - SkyHanni 6.16.0
 - Quality-of-Life
   - Armor Hud 3.0
+  - Bobby 5.2.10
   - Chat Patches 8.0-a7
+  - CloseOnMove 1.0.2
   - Controlling 28.0.2
   - Essential 1.3.10.4
   - Gamma Utils 2.4.9
@@ -39,6 +41,7 @@ Fabric 0.18.4
 - Particle Rain 4-beta.5
 - Particular Reforged 1.3.1
 - Puzzle 2.3.0
+- Smart Particles 1.10.10
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.11
 
