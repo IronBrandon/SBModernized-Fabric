@@ -18,7 +18,6 @@ Fabric 0.18.4
   - SkyHanni 6.16.0
 - Quality-of-Life
   - Armor Hud 3.0
-  - Bobby 5.2.10
   - Chat Patches 8.0-a7
   - CloseOnMove 1.0.2
   - Controlling 28.0.2
@@ -33,6 +32,7 @@ Fabric 0.18.4
 
 - AmbientSounds 6.3.1
 - Better Clouds 1.11.1
+- Bobby 5.2.10
 - Chat Heads 1.2.0
 - Cool Rain 1.3.1
 - Cubes Without Borders 3.0.0
@@ -41,7 +41,6 @@ Fabric 0.18.4
 - Particle Rain 4-beta.5
 - Particular Reforged 1.3.1
 - Puzzle 2.3.0
-- Smart Particles 1.10.10
 - Sound Physics Remastered 1.5.1
 - Visuality 0.7.11
 
@@ -56,6 +55,7 @@ Fabric 0.18.4
 - More Culling 1.5.0-b2
 - Packet Fixer 3.3.4
 - Reese's Sodium Options 1.8.6
+- Smart Particles 1.10.10
 - Sodium 0.7.3
 - Sodium Extra 0.7.1
 
