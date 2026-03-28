@@ -1,3 +1,8 @@
+**[ PROJECT DISCONTINUED ]**\
+I've left Skyblock and don't plan on maintaining this modpack. The [license](LICENSE.md) is just a slightly modified [MIT License](https://mit-license.org/).
+
+- - -
+
 # <img src="logo.png" alt="SBM Logo" style="width:31px; height: auto;"/> SBModernized
 
 ![Featured Image in SBModernized][FEATURED_IMAGE]
@@ -9,7 +14,7 @@
 A modpack designed specifically for Hypixel SkyBlock on modern versions.\
 Goodbye, 1.8.9, you will be missed...
 
-The **SBModernized** mod-pack will be developed over time to be optimized, pretty, and modifiable. I will include a list below of all mods and packs that are purely visual you may disable, from most potential performance impact to least (_not everyone has a good PC_).
+The **SBModernized** mod-pack has been developed over time to be optimized, pretty, and modifiable.
 
 <details><summary>Purely Cosmetic Mods</summary>
 
