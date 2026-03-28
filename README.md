@@ -1,5 +1,5 @@
 **[ PROJECT DISCONTINUED ]**\
-I've left Skyblock and don't plan on maintaining this modpack. The [license](LICENSE.md) is just a slightly modified [MIT License](https://mit-license.org/).
+I've left Skyblock and don't plan on maintaining this modpack. The [license](LICENSE.md) is just a slightly modified [MIT License](https://mit-license.org/), you can use this project however you like.
 
 - - -
 
